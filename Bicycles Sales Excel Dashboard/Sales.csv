@@ -1,0 +1,49 @@
+﻿Order ID,Product ID,Order Date,Order Status,Order Quantity,Order Total,Payment Method
+2001,1001,3/1/2023,Shipped,2,2400,Credit Card
+2002,1002,3/2/2023,Processing,1,1500,PayPal
+2003,1003,3/3/2023,Cancelled,3,5400,Credit Card
+2004,1004,3/4/2023,Shipped,1,2100,Credit Card
+2005,1005,3/5/2023,Processing,2,2600,PayPal
+2006,1006,3/6/2023,Shipped,1,1600,Credit Card
+2007,1007,3/7/2023,Shipped,2,4400,PayPal
+2008,1008,3/8/2023,Processing,1,2500,Credit Card
+2021,1021,3/21/2023,Shipped,2,2200,Credit Card
+2022,1022,3/22/2023,Processing,1,1400,PayPal
+2023,1023,3/23/2023,Cancelled,3,5100,Credit Card
+2024,1024,3/24/2023,Shipped,1,2000,Credit Card
+2025,1025,3/25/2023,Processing,2,3000,PayPal
+2026,1026,3/26/2023,Shipped,1,1800,Credit Card
+2027,1027,3/27/2023,Shipped,2,4600,PayPal
+2028,1028,3/28/2023,Processing,1,2600,Credit Card
+2041,1041,3/11/2023,Shipped,2,2600,Credit Card
+2042,1042,3/12/2023,Processing,1,1600,PayPal
+2043,1043,3/13/2023,Cancelled,3,5700,Credit Card
+2044,1044,3/14/2023,Shipped,1,2200,Credit Card
+2045,1045,3/15/2023,Processing,2,4000,PayPal
+2046,1046,3/16/2023,Shipped,1,2300,Credit Card
+2047,1047,3/17/2023,Shipped,2,6000,PayPal
+2048,1048,3/18/2023,Processing,1,3500,Credit Card
+2061,1061,3/1/2023,Shipped,2,4000,Credit Card
+2062,1062,3/2/2023,Processing,1,2500,PayPal
+2063,1063,3/3/2023,Cancelled,3,5100,Credit Card
+2064,1064,3/4/2023,Shipped,1,2100,Credit Card
+2065,1065,3/5/2023,Processing,2,3000,PayPal
+2066,1066,3/6/2023,Shipped,1,1800,Credit Card
+2067,1067,3/7/2023,Shipped,2,6400,PayPal
+2068,1068,3/8/2023,Processing,1,3700,Credit Card
+2081,1081,2/19/2023,Shipped,2,2400,Credit Card
+2082,1082,2/20/2023,Processing,1,1500,PayPal
+2083,1083,2/21/2023,Cancelled,3,8400,Credit Card
+2084,1084,2/22/2023,Shipped,1,3200,Credit Card
+2085,1085,2/23/2023,Processing,2,4000,PayPal
+2086,1086,2/24/2023,Shipped,1,2400,Credit Card
+2087,1087,2/25/2023,Shipped,2,5800,PayPal
+2088,1088,2/26/2023,Processing,1,3300,PayPal
+2101,1101,2/1/2023,Shipped,2,300,Credit Card
+2102,1102,2/2/2023,Processing,1,200,PayPal
+2103,1103,2/3/2023,Cancelled,3,1200,Credit Card
+2104,1104,2/4/2023,Shipped,1,600,Credit Card
+2105,1105,2/5/2023,Processing,2,3600,PayPal
+2106,1106,2/6/2023,Shipped,1,2400,Credit Card
+2107,1107,2/7/2023,Shipped,2,4200,PayPal
+2108,1108,2/8/2023,Processing,1,2600,Credit Card
