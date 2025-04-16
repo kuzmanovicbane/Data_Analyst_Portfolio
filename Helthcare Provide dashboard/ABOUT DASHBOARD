@@ -1,0 +1,37 @@
+DATA MODEL
+Model is based on fact table VISITS and dimension tables PROCEDURES, PROVIDERS, DATE TABLE, DEPARTMENTS, DIAGNOSES, INSURANCE, PATIENTS and CITIES (which is dimension table of PATIENTS).
+ 
+The primary objectives of the dashboard were to provide a comprehensive overview of billing amounts and patient volumes over time, segmented by the procedures performed on patients. Additionally, the dashboard aimed to present the percentage contribution to the total billing amount from emergency patients, inpatients, and outpatients.
+Another key requirement was to display billing amounts by countries and cities.
+A dedicated section was also developed to provide detailed analytics for all doctors. This includes insights into the predominant types of patients each doctor treats, identifying which doctors contribute most significantly to overall revenue, and the procedures to which they most frequently refer their patients.
+A specific focus was placed on visualizing the number of hospitalized patients per month and the average length of stay. Furthermore, the dashboard provides a clear view of the total billed services and outstanding receivables.
+
+DASHBOARD STRUCTURE
+1.	MEDICAL CLINIC DASHBOARD
+2.	BILLING AMOUNT
+3.	BILLING AMOUNT – STATE AND CITY
+4.	DOCTORS
+5.	PATIENTS
+6.	SATISFACTION RATE CORR WITH FACTORS
+
+1.	MEDICAL CLINIC DASHBOARD
+
+2.	BILLING AMOUNT
+ 
+A combined bar and line chart displays the total number of patients and the total billing amount over time. A vertical bar chart highlights that the highest billing amount was generated from X-Ray procedures, while blood tests contributed the least. The Cardiology department recorded the highest billing amount—almost twice as much as the Pediatrics department.
+
+3.	BILLING AMOUNT – STATE AND CITY
+ 
+Wales recorded the highest billing amount, followed by Northern Ireland in second place. When January 2025—the month with the highest billing amount—is selected, it becomes evident that the majority of patients during this period were from these two regions.
+
+4.	DOCTORS
+ 
+Dr. Sade Kikola treated the highest number of patients across both 2024 and 2025, accounting for 37.6% of all cases. When isolating data for 2024, Dr. Kikola's lead over other doctors becomes even more pronounced. However, in 2025, Dr. Olu Abisola have had the highest number of patients. Notably, Dr. Abisola had the highest patient satisfaction rate in 2024, and despite the increased patient load in 2025, his satisfaction rate remained consistently high.
+
+5.	PATIENTS
+ 
+Patient admissions, when analyzed alongside the number of days spent in the hospital—especially when filtered by specific diagnoses—provide valuable insights into the clinic’s capacity and resource utilization. The dashboard also allows for easy access to detailed information on each patient's admissions, total days hospitalized per month, payments, number of visits, and their average satisfaction rate.
+
+6.	SATISFACTION RATE CORR WITH FACTORS
+ 
+The scatter chart reveals a negative correlation between pending payments and patient satisfaction rate, as well as between the number of patients and satisfaction rate. However, Dr. Olu Abisola stands out as an outlier.
