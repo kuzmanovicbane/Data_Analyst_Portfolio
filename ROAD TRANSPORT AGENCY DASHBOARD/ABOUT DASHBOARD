@@ -1,0 +1,101 @@
+ROAD TRANSPORT AGENCY DASHBOARD
+
+Project Description:
+This project is centered around the analysis and reporting of transportation data, specifically focusing on both domestic and international road transport activities. The model integrates multiple fact and dimension tables to provide comprehensive insights into the performance, revenues, costs, and resources associated with transportation services. The key components of the data model are as follows:
+Fact Tables:
+1.	Medjunarodni Drumski (International Road Transport): This fact table contains data related to transportation activities involving international routes, including the associated costs, revenues, and other performance metrics.
+2.	Domaci Drumski (Domestic Road Transport): This fact table focuses on domestic road transport activities, capturing similar metrics as the international transport but restricted to national routes.
+Dimension Tables:
+1.	Ukupna Zarada Od Transporta (Total Revenue from Transport): This dimension table holds detailed information on the revenues, costs, and provisions related to the transportation agency. It provides essential financial metrics to assess the profitability of the transport operations.
+2.	Calendar Table: This table enables time-based analysis, providing the structure necessary for aggregating and filtering data by dates, months, quarters, and years.
+3.	Dispeceri (Dispatchers/Employees): This dimension table stores information about the employees involved in dispatching, including their roles and responsibilities in the transport operations. It allows for detailed employee-level performance tracking and analysis.
+4.	Prevoznici (Carriers/Transport Partners): This table includes data about the transport partners, or carriers, whose trucks are engaged in transportation services. It helps in understanding the collaboration with external partners and their contribution to the overall transport operations.
+
+
+ 
+Purpose of the Project:
+The goal of this project is to create a unified data model that allows for detailed analysis and reporting of both domestic and international road transport operations. By leveraging the fact and dimension tables, stakeholders can gain insights into financial performance (revenue, costs, and profitability), operational efficiency (employee and partner performance), and temporal trends (seasonality and time-based patterns). This model supports decision-making processes, strategic planning, and operational improvements in the transportation business.
+
+
+
+
+
+DASHBOARD STRUCTURE 
+Dashboard has a few parts:
+1.	Dashboard Content
+2.	Total Revenue of Road Transport Agency
+3.	Total Revenue of Domestic Road Transport
+4.	Loading and Unloading Locations in Domestic Transport
+5.	Types of Loaded Goods in Domestic Transport
+6.	Types of Trucks in Domestic Transport
+7.	Partners in Domestic Transport
+8.	Total Revenue of International Road Transport
+9.	Loading and Unloading Locations in International Transport
+10.	Types of Loaded Goods in International Transport
+11.	Types of Trucks in International Transport
+12.	Partners in International Transport
+
+INSIGHTS
+
+1.	Dashboard Content
+
+ 
+2.	Total Revenue of Road Transport Agency
+ 
+Analysis Summary:
+•	Peak Loading Period: The highest number of loaded trucks occurred from May to August, with a significant growth observed from April to May, particularly in the value of loaded goods. After August, the numbers gradually decreased. This trend aligns with the pattern seen in total provisions, which also saw a rapid increase from April to May and then a steady decline after August.
+•	Provision Analysis: Throughout the year, the transport agency recorded the highest provisions on Mondays and Tuesdays, while Wednesdays were the least productive days in terms of provision values.
+•	Employee Performance: Among the employees, Slobodanka achieved the best performance, while Mika had the weakest results.
+•	Key Transport Partner: The most important transport partner across the year was Partner E.
+•	May to August Period Insights:
+o	During the period from May to August, the most productive days for provisions were Sundays and Mondays.
+o	The most significant partners during this time were E, C, and A.
+  
+3.	Total Revenue of Domestic Road Transport
+ 
+4.	Loading and Unloading Locations in Domestic Transport
+ 
+Route and Location Analysis:
+•	Most Active Locations: The highest number of loadings occurred in Subotica, while the most unloading locations were in Apatin.
+•	Route Performance: The data table clearly highlights which routes may be underperforming or questionable for the road transport agency’s business. It also helps identify routes that require more attention or should be utilized more frequently to optimize overall efficiency.
+
+5.	Types of Loaded Goods in Domestic Transport
+ 
+This section of the dashboard is designed to optimize the number of trips for transporting specific types of goods along defined routes. It provides insights into the average number of days from loading to unloading, as well as the average loading cost, helping to increase or decrease trip frequency based on efficiency and cost-effectiveness. The dashboard also reveals which seasons generate the highest total commission for transporting specific types of goods, allowing for better strategic planning and resource allocation throughout the year.
+
+
+6.	Types of Trucks in Domestic Transport
+ 
+Same but for type of trucks.
+
+7.	Partners in Domestic Transport
+ 
+Same by partners.
+
+
+8.	Total Revenue of International Road Transport
+ 
+
+9.	Loading and Unloading Locations in International Transport
+ 
+
+Route and Location Analysis:
+•	Most Active Locations: The highest number of loadings occurred in Germany, while the most unloading locations were in Romania.
+•	Route Performance: The data table clearly highlights which routes may be underperforming or questionable for the road transport agency’s business. It also helps identify routes that require more attention or should be utilized more frequently to optimize overall efficiency.
+
+10.	Types of Loaded Goods in International Transport
+ 
+Key Insights:
+•	The highest revenue in international road transport was generated from the transportation of cement, followed by automotive parts and glass.
+•	A major issue in the transportation of automotive parts is the high average delivery time combined with a low average commission, indicating inefficiency in this segment.
+•	Increasing the number of trips for transporting hazardous liquids could be a beneficial move, as this segment shows potential for growth.
+
+
+11.	Types of Trucks in International Transport
+ 
+ADR trucks dominate in terms of engagement, which is a positive trend due to their below-average delivery times and the highest average commission per trip.
+12.	Partners in International Transport
+ 
+
+
+
