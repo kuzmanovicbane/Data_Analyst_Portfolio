@@ -1,0 +1,13 @@
+Creation of Martial Arts Club Database in MS SQL: Triggers, Views, and More
+
+The Martial Arts Club Database has been created in Microsoft SQL Server, with tables designed through interactive collaboration with ChatGPT. Data files were generated using Python scripts and then imported into MS SQL Server using the built-in import wizard.
+
+The database includes:
+
+Diagram
+
+Triggers: Automated actions that are executed in response to certain events within the database (e.g., after an insert, update, or delete).
+
+Views: Predefined queries that simplify data retrieval and enhance data security by abstracting underlying table structures.
+
+The process involved utilizing Python to generate and prepare the necessary data files, followed by importing these files into SQL Server using the import wizard for seamless integration and data management.
