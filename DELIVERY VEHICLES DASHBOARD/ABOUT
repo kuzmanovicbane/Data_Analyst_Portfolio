@@ -1,0 +1,15 @@
+This is a dashboard similar to one I created in practice, aimed at monitoring and optimizing the performance of a delivery vehicle fleet.
+
+The tables were designed based on real-world logistics experience, and I generated the code in Python with the help of ChatGPT.
+Please excuse the lack of database logic — many values are randomly generated for the demo.
+
+This dashboard provides a comprehensive view of key indicators, focusing on:
+
+✅ Cost tracking over time, enabling more accurate budgeting for upcoming periods
+✅ Number of completed routes and total mileage, as core indicators of fleet workload
+✅ Cost per kilometer and value transported per kilometer, for evaluating vehicle utilization efficiency
+✅ Driver performance monitoring, based on productivity and consistency
+✅ Route optimization, including suggestions for scaling up/down or excluding underperforming routes
+
+Ultimately, this dashboard serves as a decision-support tool, helping identify cost-saving opportunities and streamline logistics operations.
+
