@@ -1,0 +1,95 @@
+let
+    Source = Csv.Document(File.Contents("C:\Users\Bane\OneDrive - Lin doo\VEŽBA POWER QUERY U EXCELu\CAFE SALES DIRTY DATA FOR CLEANING\dirty_cafe_sales.csv"), [Delimiter = ",", Columns = 8, Encoding = 1250, QuoteStyle = QuoteStyle.None]),
+    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+    
+    // Prvo sve kolone ostaju tekst dok se ne očiste
+    ChangedTypeToText = Table.TransformColumnTypes(PromotedHeaders, {
+        {"Transaction ID", type text}, 
+        {"Item", type text}, 
+        {"Quantity", type text}, 
+        {"Price Per Unit", type text}, 
+        {"Total Spent", type text}, 
+        {"Payment Method", type text}, 
+        {"Location", type text}, 
+        {"Transaction Date", type text}
+    }),
+
+    // Dodavanje Item Full prema ceni
+    AddItemFull = Table.AddColumn(ChangedTypeToText, "Item Full", each 
+        if [Price Per Unit] = "1.0" then "Cookie" 
+        else if [Price Per Unit] = "1.5" then "Tea" 
+        else if [Price Per Unit] = "2.0" then "Coffee" 
+        else if [Price Per Unit] = "3.0" then "Juice or Cake" 
+        else if [Price Per Unit] = "4.0" then "Sandwich or Smothie" 
+        else if [Price Per Unit] = "5.0" then "Salad" 
+        else "EMPTY"
+    ),
+
+    // Dodavanje Item Clean
+    AddItemClean = Table.AddColumn(AddItemFull, "Item Clean", each 
+        let 
+            rawItem = if [Item] = null then "" else [Item],
+            cleanedItem = Text.Upper(Text.Trim(rawItem))
+        in
+            if cleanedItem = "" or cleanedItem = "UNKNOWN" or cleanedItem = "ERROR" then [Item Full] else [Item]
+    ),
+
+    // Uklanjanje suvišnih kolona
+    RemoveExtraCols = Table.RemoveColumns(AddItemClean, {"Item", "Item Full"}),
+
+    // Pretvaranje ključnih kolona u broj
+    ConvertToNumber = Table.TransformColumns(RemoveExtraCols, {
+        {"Quantity", each try Number.FromText(_) otherwise null, type number},
+        {"Price Per Unit", each try Number.FromText(_) otherwise null, type number},
+        {"Total Spent", each try Number.FromText(_) otherwise null, type number}
+    }),
+
+    // Izračunavanje Quantity for adding ako fali Quantity
+    AddQuantityForAdding = Table.AddColumn(ConvertToNumber, "Quantity for adding", each 
+        try [Total Spent] / [Price Per Unit] otherwise null, type number),
+
+    // Čišćenje Quantity vrednosti
+    AddQuantityClean = Table.AddColumn(AddQuantityForAdding, "Quantity Clean", each 
+        if [Quantity] = null then [Quantity for adding] else [Quantity], type number),
+
+    // Čišćenje cene po jedinici
+    AddPricePerUnitClean = Table.AddColumn(AddQuantityClean, "Price Per Unit Clean", each 
+        if [Price Per Unit] = null then try [Total Spent] / [Quantity Clean] otherwise null else [Price Per Unit], type number),
+
+    // Ponovno izračunavanje Total Spent iz čistih vrednosti
+    AddTotalSpentClean = Table.AddColumn(AddPricePerUnitClean, "Total Spent Clean", each 
+        try [Quantity Clean] * [Price Per Unit Clean] otherwise null, type number),
+
+    // Čišćenje vrednosti u tekstualnim kolonama
+    ReplaceEmptyPayment = Table.ReplaceValue(AddTotalSpentClean, "", "UNKNOWN", Replacer.ReplaceValue, {"Payment Method"}),
+    ReplaceEmptyLocation = Table.ReplaceValue(ReplaceEmptyPayment, "", "UNKNOWN", Replacer.ReplaceValue, {"Location"}),
+
+    // Filtriranje nevalidnih datuma
+    FilterValidDates = Table.SelectRows(ReplaceEmptyLocation, each 
+        [Transaction Date] <> null and [Transaction Date] <> "" and [Transaction Date] <> "ERROR" and [Transaction Date] <> "UNKNOWN"),
+
+    // Konverzija Transaction Date u date tip
+    ConvertTransactionDate = Table.TransformColumnTypes(FilterValidDates, {{"Transaction Date", type date}}),
+
+    // Završno sređivanje: uklanjanje starih kolona i preimenovanje novih
+    RemoveOldCols = Table.RemoveColumns(ConvertTransactionDate, {"Quantity", "Price Per Unit", "Total Spent", "Quantity for adding"}),
+    RenameColumns = Table.RenameColumns(RemoveOldCols, {
+        {"Price Per Unit Clean", "Price Per Unit"},
+        {"Total Spent Clean", "Total Spent"},
+        {"Quantity Clean", "Quantity"}
+    }),
+
+    // Finalni raspored kolona
+    FinalColumns = Table.SelectColumns(RenameColumns, {
+        "Transaction ID", "Item Clean", "Quantity", "Price Per Unit", "Total Spent", "Payment Method", "Location", "Transaction Date"
+    }),
+    #"Added Custom" = Table.AddColumn(FinalColumns, "Price Per Unit Clean", each [Price Per Unit]/10),
+    #"Changed Type" = Table.TransformColumnTypes(#"Added Custom",{{"Price Per Unit Clean", type number}}),
+    #"Added Custom1" = Table.AddColumn(#"Changed Type", "Total Spent Clean", each [Total Spent]/10),
+    #"Removed Columns" = Table.RemoveColumns(#"Added Custom1",{"Price Per Unit", "Total Spent"}),
+    #"Changed Type1" = Table.TransformColumnTypes(#"Removed Columns",{{"Total Spent Clean", type number}}),
+    #"Reordered Columns" = Table.ReorderColumns(#"Changed Type1",{"Transaction ID", "Item Clean", "Quantity", "Price Per Unit Clean", "Total Spent Clean", "Payment Method", "Location", "Transaction Date"}),
+    #"Changed Type2" = Table.TransformColumnTypes(#"Reordered Columns",{{"Item Clean", type text}}),
+    #"Filtered Rows" = Table.SelectRows(#"Changed Type2", each true)
+in
+    #"Filtered Rows"
