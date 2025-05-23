@@ -1,0 +1,12 @@
+📊 E-Commerce Analytics Project – Brazilian Public Dataset
+This project focuses on building a complete end-to-end data analysis solution for a Brazilian e-commerce dataset. The workflow includes:
+
+Database Construction: CSV files were imported into Microsoft SQL Server, where the data types were cleaned and standardized. Appropriate primary and foreign keys were assigned to establish relational integrity.
+
+Data Modeling: A relational model diagram was created to visualize and understand the structure of the data.
+
+SQL Views for Analysis: SQL views were developed to aggregate and transform the data for specific business insights, covering areas such as sales performance, customer satisfaction, delivery efficiency, and payment methods.
+
+Power BI Integration: The views were imported into Power BI, where a comprehensive data model was built. Interactive dashboards were designed to answer key business questions and highlight actionable insights.
+
+This project demonstrates the full pipeline from raw data to insightful visual analytics, showcasing best practices in data engineering and business intelligence.
