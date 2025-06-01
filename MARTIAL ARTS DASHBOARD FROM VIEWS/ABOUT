@@ -1,0 +1,13 @@
+🎯 MARTIAL ARTS DASHBOARD in Power BI – built without using DAX!
+
+I created a visually rich and functional dashboard using only views and a relational data model, completely avoiding DAX.
+The idea was to leverage the full power of the data layer, while using Power BI purely as a visual presentation tool.
+
+🔹 Faster development
+🔹 Easier maintenance
+🔹 Clear separation between data and visuals
+
+This is another great example of how important proper data modeling and preparation are before jumping into visualization.
+
+👊 Topic: Martial Arts
+📊 Tech: Power BI + SQL (views)
