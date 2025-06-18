@@ -1,0 +1,19 @@
+🚀 Calling Stored Procedures from Excel with Power Query 🔄📊
+
+Just wrapped up a neat integration project where I connected the power of SQL Server stored procedures with the flexibility of Excel + Power Query. 🎯
+
+📌 What does it do?
+
+Users enter parameters in Excel (e.g. grouping and metric options)
+
+Power Query dynamically calls a stored procedure with those inputs
+
+The result? Automatically refreshed, aggregated data straight into Excel — no manual queries or copy-paste
+
+💡 This solution is:
+
+ ✅ Flexible
+
+ ✅ Scalable
+
+ ✅ Ideal for teams that live in Excel but want SQL performance behind the scenes
