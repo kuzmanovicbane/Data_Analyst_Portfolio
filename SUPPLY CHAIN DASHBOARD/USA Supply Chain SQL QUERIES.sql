@@ -89,18 +89,70 @@ GROUP BY sr.name
 HAVING SUM(total_amt_usd) > 1000000
 ORDER BY SUM(total_amt_usd) DESC;
 
--- 7. Pronađi naloge koji nisu napravili nijednu porudžbinu.
+-- 7. Pronađi naloge koji nisu napravili više od 5 porudžbina.
+
+SELECT
+    a.name AS account_name,
+    COUNT(o.id) AS number_of_orders
+FROM orders o
+JOIN accounts a ON o.account_id = a.id
+JOIN sales_rep sr ON a.sales_rep_id = sr.id
+JOIN region r ON sr.region_id = r.id
+GROUP BY 
+	a.name
+HAVING
+	COUNT(o.id) <= 5
+ORDER BY
+	COUNT(o.id) ASC
+
 
 -- 8. Prikaži broj web događaja po tipu (`web_events.channel`) i regionu.
 
--- 9. Prikaži prosečno vreme između registracije naloga i prve porudžbine.
+SELECT
+	we.channel,
+	reg.name,
+	COUNT(we.id) AS NumberOfWebEvents
+FROM 
+	web_events we
+LEFT JOIN 
+	accounts a 
+ON we.account_id = a.id
+LEFT JOIN 
+	sales_rep sr
+ON a.sales_rep_id = sr.id
+LEFT JOIN
+	region reg
+ON
+	sr.region_id = reg.id
+GROUP BY 
+	reg.name,
+	we.channel
+ORDER BY 
+	we.channel ASC, COUNT(we.id) DESC, reg.name ASC 
 
--- 10. Pronađi prodajne predstavnike koji pokrivaju više od jednog regiona.
+-- 9. Pronađi prodajne predstavnike koji pokrivaju više od jednog regiona.
 
--- 11. Prikaži broj porudžbina i prosečnu vrednost po prodajnom predstavniku u svakom regionu.
+SELECT
+    sr.name AS sales_rep_name,
+    COUNT(DISTINCT r.id) AS regions_covered
+FROM accounts a
+JOIN sales_rep sr ON a.sales_rep_id = sr.id
+JOIN region r ON sr.region_id = r.id
+GROUP BY sr.name
+HAVING COUNT(DISTINCT r.id) > 1;
 
--- 12. Prikaži koji je kanal (`web_events.channel`) najefikasniji u generisanju kupaca (accounts).
 
--- 13. Prikaži top 5 naloga po broju web događaja u poslednjih 3 meseca.
+-- 10. Prikaži broj porudžbina i prosečnu vrednost po prodajnom predstavniku u svakom regionu.
 
--- 14. Prikaži za svaki region ukupnu prodaju i bro
+SELECT
+    sr.name AS sales_rep_name,
+	r.name AS region_name,
+    COUNT(o.id) AS number_of_orders,
+	AVG(o.total_amt_usd) AverageTotalAmt
+FROM orders o
+JOIN accounts a ON o.account_id = a.id
+JOIN sales_rep sr ON a.sales_rep_id = sr.id
+JOIN region r ON sr.region_id = r.id
+GROUP BY sr.name, r.name
+ORDER BY AVG(o.total_amt_usd) DESC
+
