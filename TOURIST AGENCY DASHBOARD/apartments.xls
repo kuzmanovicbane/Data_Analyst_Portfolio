@@ -1,0 +1,201 @@
+id,trip_id,accommodation_type,included_features,price,rent_cost,bus_transport_cost,air_transport_cost
+1,63,Hostel,All inclusive,342,252,63.0,
+2,284,Apartment,Room only,664,83,,82.0
+3,34,Apartment,Room only,590,184,66.0,
+4,295,Hotel,All inclusive,424,214,24.0,
+5,231,Villa,Breakfast and parking,452,82,55.0,
+6,94,Hostel,Room only,614,283,23.0,
+7,64,Hostel,Half-board,268,91,85.0,
+8,116,Apartment,Breakfast and parking,390,266,25.0,
+9,129,Hostel,Breakfast and parking,381,82,60.0,
+10,156,Hotel,Breakfast and parking,756,93,,99.0
+11,88,Apartment,Breakfast and parking,142,261,21.0,
+12,42,Hotel,Breakfast and parking,371,216,76.0,
+13,214,Hotel,Room only,742,189,59.0,
+14,248,Hostel,Room only,404,166,43.0,
+15,81,Villa,Room only,595,168,78.0,
+16,74,Apartment,Half-board,453,299,45.0,
+17,67,Apartment,Breakfast and parking,675,77,69.0,
+18,63,Apartment,Room only,353,86,58.0,
+19,197,Villa,All inclusive,263,258,40.0,
+20,296,Apartment,All inclusive,263,177,,179.0
+21,256,Apartment,Room only,123,73,,189.0
+22,235,Hostel,All inclusive,697,140,58.0,
+23,254,Villa,Half-board,649,52,,170.0
+24,69,Apartment,Half-board,512,143,22.0,
+25,206,Hotel,Breakfast and parking,675,99,43.0,
+26,284,Apartment,WiFi and breakfast,495,179,75.0,
+27,144,Hotel,All inclusive,199,150,43.0,
+28,174,Apartment,All inclusive,303,204,,188.0
+29,21,Hotel,WiFi and breakfast,240,232,70.0,
+30,266,Villa,All inclusive,720,278,,143.0
+31,164,Hostel,Room only,731,239,,146.0
+32,260,Villa,Breakfast and parking,406,171,21.0,
+33,189,Apartment,WiFi and breakfast,526,199,39.0,
+34,14,Villa,Half-board,771,250,,118.0
+35,27,Villa,All inclusive,636,211,59.0,
+36,195,Hostel,All inclusive,132,196,,88.0
+37,98,Hotel,Room only,421,157,29.0,
+38,212,Hostel,Room only,613,248,,180.0
+39,32,Hostel,Breakfast and parking,312,193,82.0,
+40,245,Villa,Half-board,277,167,54.0,
+41,176,Apartment,Half-board,724,173,55.0,
+42,143,Apartment,All inclusive,404,247,53.0,
+43,251,Apartment,Room only,457,193,,130.0
+44,148,Hotel,Breakfast and parking,792,189,65.0,
+45,177,Hostel,Half-board,143,123,,80.0
+46,178,Villa,Half-board,590,104,74.0,
+47,139,Apartment,All inclusive,211,207,57.0,
+48,123,Hostel,WiFi and breakfast,785,281,,119.0
+49,27,Hotel,Room only,438,233,50.0,
+50,52,Hostel,WiFi and breakfast,663,300,,164.0
+51,244,Villa,All inclusive,394,132,43.0,
+52,46,Hostel,Breakfast and parking,138,283,31.0,
+53,214,Hostel,WiFi and breakfast,506,251,99.0,
+54,149,Hotel,WiFi and breakfast,405,195,58.0,
+55,55,Apartment,Half-board,565,214,,186.0
+56,69,Villa,Half-board,297,257,27.0,
+57,170,Hostel,Room only,763,115,31.0,
+58,8,Apartment,Half-board,681,222,32.0,
+59,90,Villa,Room only,627,133,82.0,
+60,49,Hostel,All inclusive,588,132,,61.0
+61,134,Villa,All inclusive,557,242,37.0,
+62,169,Apartment,Breakfast and parking,686,52,63.0,
+63,121,Hotel,WiFi and breakfast,576,128,83.0,
+64,258,Apartment,WiFi and breakfast,754,284,38.0,
+65,189,Hostel,All inclusive,236,172,29.0,
+66,233,Apartment,Room only,662,283,50.0,
+67,276,Hostel,All inclusive,796,243,,80.0
+68,270,Villa,Breakfast and parking,470,69,56.0,
+69,58,Hotel,Breakfast and parking,617,101,,98.0
+70,85,Apartment,Breakfast and parking,552,79,33.0,
+71,299,Villa,WiFi and breakfast,622,164,23.0,
+72,233,Hostel,Breakfast and parking,525,166,56.0,
+73,30,Villa,Half-board,122,151,36.0,
+74,2,Hostel,Breakfast and parking,174,61,84.0,
+75,33,Hotel,WiFi and breakfast,583,58,38.0,
+76,210,Hostel,All inclusive,756,300,,167.0
+77,192,Villa,Room only,486,146,82.0,
+78,277,Hostel,Half-board,221,95,,160.0
+79,271,Hostel,All inclusive,103,243,59.0,
+80,238,Villa,Breakfast and parking,488,260,34.0,
+81,127,Villa,Half-board,258,120,32.0,
+82,58,Hotel,Room only,729,246,,64.0
+83,124,Hostel,WiFi and breakfast,203,202,78.0,
+84,25,Hostel,WiFi and breakfast,511,162,53.0,
+85,29,Hostel,Breakfast and parking,396,109,56.0,
+86,164,Apartment,All inclusive,409,274,82.0,
+87,267,Hostel,Room only,407,120,100.0,
+88,90,Villa,Breakfast and parking,607,62,,157.0
+89,269,Apartment,Room only,518,88,51.0,
+90,276,Villa,All inclusive,330,126,,96.0
+91,238,Hotel,Breakfast and parking,522,297,46.0,
+92,286,Hostel,Room only,348,115,33.0,
+93,170,Hotel,Room only,479,73,54.0,
+94,98,Hotel,Half-board,486,222,58.0,
+95,21,Hotel,All inclusive,701,235,,115.0
+96,246,Hostel,Half-board,410,294,,114.0
+97,98,Hotel,Room only,348,228,58.0,
+98,105,Villa,All inclusive,665,132,,157.0
+99,239,Apartment,Half-board,367,142,52.0,
+100,255,Villa,WiFi and breakfast,580,244,,112.0
+101,190,Apartment,Room only,146,194,,97.0
+102,9,Apartment,Breakfast and parking,698,198,46.0,
+103,152,Hostel,All inclusive,437,108,44.0,
+104,292,Hostel,Room only,663,217,41.0,
+105,132,Villa,Room only,571,93,42.0,
+106,87,Hostel,Breakfast and parking,600,97,54.0,
+107,31,Hotel,WiFi and breakfast,784,62,,165.0
+108,71,Hostel,WiFi and breakfast,254,52,69.0,
+109,192,Hotel,Breakfast and parking,753,220,,183.0
+110,250,Hotel,WiFi and breakfast,644,191,46.0,
+111,7,Hotel,Breakfast and parking,381,187,,64.0
+112,258,Villa,All inclusive,209,285,26.0,
+113,269,Hostel,All inclusive,296,208,,150.0
+114,137,Villa,WiFi and breakfast,482,295,76.0,
+115,125,Hostel,Half-board,800,261,,68.0
+116,48,Villa,Room only,486,191,80.0,
+117,5,Hostel,WiFi and breakfast,611,266,47.0,
+118,170,Hotel,Breakfast and parking,143,108,33.0,
+119,291,Villa,Half-board,147,286,99.0,
+120,144,Hotel,All inclusive,422,54,33.0,
+121,74,Villa,WiFi and breakfast,406,91,56.0,
+122,124,Villa,Breakfast and parking,439,148,,95.0
+123,41,Apartment,WiFi and breakfast,200,161,44.0,
+124,175,Villa,Half-board,130,212,68.0,
+125,252,Hostel,Half-board,666,290,44.0,
+126,222,Hostel,Breakfast and parking,776,147,25.0,
+127,152,Hostel,WiFi and breakfast,184,118,29.0,
+128,195,Hostel,Room only,424,142,40.0,
+129,158,Villa,Half-board,376,76,51.0,
+130,221,Villa,Breakfast and parking,668,181,46.0,
+131,53,Hotel,WiFi and breakfast,462,191,78.0,
+132,167,Villa,WiFi and breakfast,398,155,45.0,
+133,287,Hostel,Breakfast and parking,633,93,,103.0
+134,72,Apartment,Half-board,374,176,29.0,
+135,33,Hostel,Room only,382,157,39.0,
+136,248,Hotel,Half-board,357,291,80.0,
+137,254,Hostel,Room only,209,84,100.0,
+138,203,Apartment,Breakfast and parking,489,255,41.0,
+139,226,Apartment,Room only,766,299,58.0,
+140,70,Apartment,Half-board,717,292,,182.0
+141,161,Hostel,Room only,426,124,,185.0
+142,295,Hostel,Half-board,485,121,45.0,
+143,187,Hotel,Breakfast and parking,304,201,,106.0
+144,282,Hotel,Room only,314,162,38.0,
+145,36,Villa,Room only,242,212,56.0,
+146,79,Villa,Room only,175,164,,182.0
+147,299,Villa,Breakfast and parking,618,286,46.0,
+148,279,Hotel,Half-board,649,202,,81.0
+149,56,Hostel,Half-board,270,215,59.0,
+150,23,Villa,Half-board,540,77,56.0,
+151,114,Hostel,Room only,483,150,83.0,
+152,257,Hostel,Half-board,125,173,26.0,
+153,152,Villa,WiFi and breakfast,218,262,29.0,
+154,179,Apartment,Half-board,566,250,70.0,
+155,179,Villa,WiFi and breakfast,548,234,,141.0
+156,35,Apartment,WiFi and breakfast,217,55,,87.0
+157,85,Hostel,Breakfast and parking,278,191,30.0,
+158,170,Villa,Room only,337,254,45.0,
+159,95,Hostel,Room only,505,57,59.0,
+160,102,Villa,Breakfast and parking,539,149,53.0,
+161,106,Apartment,WiFi and breakfast,691,76,,197.0
+162,96,Apartment,Half-board,301,167,82.0,
+163,251,Apartment,Breakfast and parking,497,206,47.0,
+164,179,Apartment,Room only,732,94,,136.0
+165,44,Hostel,Half-board,220,111,51.0,
+166,192,Hostel,Breakfast and parking,497,157,,158.0
+167,217,Hostel,Room only,750,187,31.0,
+168,285,Hostel,Room only,395,85,93.0,
+169,231,Hotel,Half-board,109,174,28.0,
+170,100,Villa,Breakfast and parking,617,217,83.0,
+171,252,Villa,Room only,600,92,25.0,
+172,290,Hotel,All inclusive,399,58,74.0,
+173,148,Hostel,Room only,679,240,,186.0
+174,282,Hotel,Breakfast and parking,216,118,54.0,
+175,188,Hotel,Room only,659,105,,86.0
+176,127,Apartment,WiFi and breakfast,560,117,42.0,
+177,45,Villa,WiFi and breakfast,342,103,57.0,
+178,180,Villa,All inclusive,730,85,,112.0
+179,31,Apartment,Breakfast and parking,387,202,,142.0
+180,150,Apartment,Breakfast and parking,373,293,,84.0
+181,70,Villa,WiFi and breakfast,383,271,,93.0
+182,128,Hostel,Half-board,353,244,45.0,
+183,251,Hostel,Breakfast and parking,747,118,,156.0
+184,232,Hotel,WiFi and breakfast,512,181,,154.0
+185,233,Villa,Half-board,695,50,25.0,
+186,235,Apartment,WiFi and breakfast,647,151,67.0,
+187,109,Villa,Half-board,430,262,75.0,
+188,296,Hostel,Breakfast and parking,596,251,83.0,
+189,25,Hotel,WiFi and breakfast,741,250,,64.0
+190,64,Hostel,Room only,567,50,,169.0
+191,104,Hostel,Half-board,262,273,,130.0
+192,48,Apartment,Half-board,184,145,,102.0
+193,27,Villa,Half-board,339,159,25.0,
+194,49,Hotel,All inclusive,588,69,54.0,
+195,266,Villa,WiFi and breakfast,108,228,47.0,
+196,217,Hostel,Room only,172,108,44.0,
+197,46,Hotel,WiFi and breakfast,420,144,39.0,
+198,71,Villa,All inclusive,756,223,73.0,
+199,289,Hotel,Breakfast and parking,765,92,48.0,
+200,180,Hostel,All inclusive,521,207,,115.0

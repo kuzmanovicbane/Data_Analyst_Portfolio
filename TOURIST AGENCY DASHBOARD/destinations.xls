@@ -1,0 +1,55 @@
+id,country,city,destination_type
+1,Serbia,Belgrade,city
+2,Serbia,Novi Sad,cultural
+3,Serbia,Niš,cultural
+4,Serbia,Subotica,city
+5,Serbia,Zlatibor,mountain
+6,Serbia,Tara National Park,mountain
+7,Serbia,Kopaonik,mountain
+8,Serbia,Vrnjačka Banja,spa
+9,Serbia,Sokobanja,spa
+10,Serbia,Palić,lake
+11,Serbia,Kragujevac,city
+12,Serbia,Leskovac,cultural
+13,Serbia,Užice,mountain
+14,Serbia,Smederevo,cultural
+15,Serbia,Zaječar,cultural
+16,Serbia,Požarevac,cultural
+17,Serbia,Pančevo,city
+18,Serbia,Valjevo,mountain
+19,Serbia,Donji Milanovac,nature
+20,Serbia,Golubac,cultural
+21,Serbia,Novi Pazar,cultural
+22,Serbia,Topola,cultural
+23,Serbia,Vršac,mountain
+24,Serbia,Apatin,river
+25,Greece,Athens,cultural
+26,Greece,Thessaloniki,city
+27,Greece,Katerini,beach
+28,Greece,Paralia,beach
+29,Greece,Leptokarya,beach
+30,Greece,Nei Pori,beach
+31,Greece,Platamon,beach
+32,Greece,Pefkohori,beach
+33,Greece,Hanioti,beach
+34,Greece,Polychrono,beach
+35,Greece,Nikiti,beach
+36,Greece,Neos Marmaras,beach
+37,Greece,Toroni,beach
+38,Greece,Sarti,beach
+39,Greece,Vourvourou,beach
+40,Greece,Ouranoupoli,beach
+41,Greece,Corfu Town,beach
+42,Greece,Chania (Crete),beach
+43,Greece,Heraklion (Crete),cultural
+44,Greece,Rhodes Town,cultural
+45,Greece,Fira (Santorini),cultural
+46,Greece,Oia (Santorini),beach
+47,Greece,Mykonos Town,beach
+48,Greece,Delphi,cultural
+49,Greece,Kalambaka (Meteora),cultural
+50,Greece,Ioannina,city
+51,Greece,Nafplio,cultural
+52,Greece,Sparta,cultural
+53,Greece,Kalamata,beach
+54,Greece,Alexandroupoli,beach
