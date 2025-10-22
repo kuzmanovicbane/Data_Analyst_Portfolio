@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Cost/Unit,ReorderLevel,Supplier
+P001,AquaGuard Bottle,Apparel,8.5,20,UrbanVault Inc.
+P002,Quantum Socks,Food & Drink,12.0,15,BookBuddies Supply
+P003,Galaxy Bubble Kit,Toys & Gadgets,6.0,10,JellyJoy Makers
+P004,Inferno Snack Bites,Food & Drink,5.5,25,Earthwise Tools
+P005,EcoFeast Cutlery,Stationery,3.0,30,TotePlanet Co.
+P006,ZenDesk Flora,Toys & Gadgets,9.0,12,RetroByte Traders
+P007,Aurora Candle Jar,Lifestyle,15.0,20,SnackNest Co.
+P008,SketchHero Journal,Food & Drink,4.5,25,Mugnetic Traders
+P009,Mocha Pretzel Craze,Lifestyle,10.0,8,ThinkDesk Supplies
+P010,CloudCanvas Tote,Lifestyle,11.5,10,BubbleCraze Ltd.
+P011,Neon Cube Charm,Lifestyle,7.5,18,KeyPlay Co.
+P012,Caramel Crunch Pack,Lifestyle,5.0,15,SpiceRiot Foods
+P013,Rainbow Bean Mix,Apparel,6.5,20,HydroPulse Ware
+P014,MetroPass Holder,Food & Drink,7.0,12,Notebookverse
+P015,Retro Pixel Ring,Stationery,4.0,15,NovaThreads Inc.
+P016,IdeaPad Notepad,Toys & Gadgets,6.5,10,CrunchWorks Foods
+P017,Nebula Mug,Lifestyle,8.0,12,SlimeCraft Studios
+P018,HyperSpin Toy,Stationery,4.5,20,GizmoGalaxy Co.
+P019,StorySnap Bookmarks,Food & Drink,5.0,25,Verdant Home Goods
+P020,Mystic Slime Lab,Toys & Gadgets,7.5,10,GlowScents Ltd.
