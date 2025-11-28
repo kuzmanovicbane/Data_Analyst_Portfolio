@@ -1,0 +1,637 @@
+companyName,country,city,Year_,Month_,TotalQuantity,TotalRevenue,TotalFreightCosts,TotalNetRevenue
+"Vins et alcools Chevalier",France,Reims,2013,7,27,440,97.14000000000001,342.86
+"Toms Spezialitäten",Germany,Münster,2013,7,49,1863.4,23.22,1840.18
+"Hanari Carnes",Brazil,"Rio de Janeiro",2013,7,162,3257.8,372.00000000000006,2885.8
+"Victuailles en stock",France,Lyon,2013,7,41,670.8,124.02000000000001,546.78
+"Suprêmes délices",Belgium,Charleroi,2013,7,105,3730,153.89999999999998,3576.1
+"Chop-suey Chinese",Switzerland,Bern,2013,7,57,625.2,68.94,556.26
+"Richter Supermarkt",Switzerland,Genève,2013,7,110,2490.5,593.32,1897.1799999999998
+"Wellington Importadora",Brazil,Resende,2013,7,27,517.8,27.94,489.85999999999996
+HILARION-Abastos,Venezuela,"San Cristóbal",2013,7,46,1119.9,245.73,874.1700000000001
+"Ernst Handel",Austria,Graz,2013,7,305,4483.4,1005.7699999999998,3477.63
+"Centro comercial Moctezuma",Mexico,"Mexico City",2013,7,11,100.8,6.5,94.3
+"Ottilies Käseladen",Germany,Köln,2013,7,102,1746.2,220.36,1525.8400000000001
+"Que Delícia",Brazil,"Rio de Janeiro",2013,7,40,448,6.1,441.9
+"Rattlesnake Canyon Grocery",USA,Albuquerque,2013,7,29,624.8,144.87,479.92999999999995
+"Folk och fä HB",Sweden,Bräcke,2013,7,60,724.5,7.34,717.16
+"Blondesddsl père et fils",France,Strasbourg,2013,7,50,1176,110.56,1065.44
+"Wartian Herkku",Finland,Oulu,2013,7,12,364.79999999999995,25.73,339.06999999999994
+Frankenversand,Germany,München,2013,7,135,4031,625.74,3405.26
+GROSELLA-Restaurante,Venezuela,Caracas,2013,7,14,1101.2,132.58,968.62
+"White Clover Markets",USA,Seattle,2013,7,80,676,9.12,666.88
+"Wartian Herkku",Finland,Oulu,2013,8,55,1376,273.08,1102.92
+"Split Rail Beer & Ale",USA,Lander,2013,8,24,48,4.54,43.46
+"Rattlesnake Canyon Grocery",USA,Albuquerque,2013,8,145,3343.5999999999995,1030.3899999999999,2313.2099999999996
+QUICK-Stop,Germany,Cunewalde,2013,8,413,7337.6,1069.3200000000002,6268.280000000001
+"Vins et alcools Chevalier",France,Reims,2013,8,27,538.6,12.02,526.58
+"Magazzini Alimentari Riuniti",Italy,Bergamo,2013,8,18,307.2,53.86,253.33999999999997
+"Tortuga Restaurante",Mexico,"Mexico City",2013,8,58,1268.7,112.4,1156.3
+"Morgenstern Gesundkost",Germany,Leipzig,2013,8,32,1200.8,251.54,949.26
+"Berglunds snabbköp",Sweden,Luleå,2013,8,126,2102,397.70000000000005,1704.3
+"Lehmanns Marktstand",Germany,"Frankfurt a.M.",2013,8,76,1920,332.07,1587.93
+"Romero y tomillo",Spain,Madrid,2013,8,19,241.89999999999998,34.199999999999996,207.7
+LILA-Supermercado,Venezuela,Barquisimeto,2013,8,76,1414.8000000000002,339.24,1075.5600000000002
+"Ricardo Adocicados",Brazil,"Rio de Janeiro",2013,8,75,924,38.28,885.72
+"Reggiani Caseifici",Italy,"Reggio Emilia",2013,8,13,89,14.9,74.1
+"B's Beverages",UK,London,2013,8,39,479.4,45.54,433.85999999999996
+"Comércio Mineiro",Brazil,"Sao Paulo",2013,8,60,2169,318.8,1850.2
+"Que Delícia",Brazil,"Rio de Janeiro",2013,8,46,552.8,19.200000000000003,533.5999999999999
+"Tradição Hipermercados",Brazil,"Sao Paulo",2013,8,20,1296,1.35,1294.65
+"Vins et alcools Chevalier",France,Reims,2013,9,4,121.6,1.15,120.44999999999999
+LILA-Supermercado,Venezuela,Barquisimeto,2013,9,57,1050.6,0.36,1050.24
+"Blondesddsl père et fils",France,Strasbourg,2013,9,80,1420,11.48,1408.52
+"Hungry Owl All-Night Grocers",Ireland,Cork,2013,9,200,4889,909.3799999999998,3979.6200000000003
+"Ricardo Adocicados",Brazil,"Rio de Janeiro",2013,9,35,349.5,59.52,289.98
+"Magazzini Alimentari Riuniti",Italy,Bergamo,2013,9,50,608,35.36,572.64
+"Die Wandernde Kuh",Germany,Stuttgart,2013,9,88,2369.8,251.19999999999996,2118.6000000000004
+"Suprêmes délices",Belgium,Charleroi,2013,9,80,2708.7999999999997,18.81,2689.99
+"Godos Cocina Típica",Spain,Sevilla,2013,9,85,1242,323.49,918.51
+"Tortuga Restaurante",Mexico,"Mexico City",2013,9,42,954.4,191.37,763.03
+"Old World Delicatessen",USA,Anchorage,2013,9,80,4157,772.86,3384.14
+"Romero y tomillo",Spain,Madrid,2013,9,25,498.5,22.68,475.82
+"Lonesome Pine Restaurant",USA,Portland,2013,9,33,712,13.809999999999999,698.19
+"Ana Trujillo Emparedados y helados",Mexico,"Mexico City",2013,9,6,88.8,3.22,85.58
+"The Big Cheese",USA,Portland,2013,9,15,336,35.04,300.96
+"Du monde entier",France,Nantes,2013,9,13,268.79999999999995,49.38,219.41999999999996
+QUICK-Stop,Germany,Cunewalde,2013,9,12,182.39999999999998,1.96,180.43999999999997
+"Rattlesnake Canyon Grocery",USA,Albuquerque,2013,9,175,5162,522.78,4639.22
+"Island Trading",UK,Cowes,2013,9,44,516.8,83.52,433.28
+"Island Trading",UK,Cowes,2013,10,36,384.4,12.89,371.51
+"Tortuga Restaurante",Mexico,"Mexico City",2013,10,52,1191.1999999999998,193.5,997.6999999999998
+"Wartian Herkku",Finland,Oulu,2013,10,90,1470,36.34000000000001,1433.66
+"Pericles Comidas clásicas",Mexico,"Mexico City",2013,10,20,112,0.4,111.6
+"Königlich Essen",Germany,Brandenburg,2013,10,84,1661.4,338.94000000000005,1322.46
+"Save-a-lot Markets",USA,Boise,2013,10,241,6155.9,1071.3500000000001,5084.549999999999
+"Bólido Comidas preparadas",Spain,Madrid,2013,10,90,982,233.76,748.24
+"Folk och fä HB",Sweden,Bräcke,2013,10,140,2262.5,253.44,2009.06
+"Furia Bacalhau e Frutos do Mar",Portugal,Lisboa,2013,10,59,1168,261.09000000000003,906.91
+"Split Rail Beer & Ale",USA,Lander,2013,10,50,4819.400000000001,766.68,4052.7200000000007
+LILA-Supermercado,Venezuela,Barquisimeto,2013,10,75,1940,25.5,1914.5
+"Bon app'",France,Marseille,2013,10,87,2652.9,509.12,2143.78
+"Mère Paillarde",Canada,Montréal,2013,10,174,5696.8,205.5,5491.3
+"Victuailles en stock",France,Lyon,2013,10,18,144.8,17.12,127.68
+"Hungry Owl All-Night Grocers",Ireland,Cork,2013,10,86,2545.2,168.44,2376.7599999999998
+"Princesa Isabel Vinhos",Portugal,Lisboa,2013,10,18,316.8,15.51,301.29
+Frankenversand,Germany,München,2013,10,297,4767.8,760.6200000000002,4007.18
+"Old World Delicatessen",USA,Anchorage,2013,10,35,934.5,168.42,766.08
+"Simons bistro",Denmark,Kobenhavn,2013,10,17,412,53.56,358.44
+"Lehmanns Marktstand",Germany,"Frankfurt a.M.",2013,10,69,1586,331.11,1254.8899999999999
+"White Clover Markets",USA,Seattle,2013,11,105,2856,46.58,2809.42
+QUICK-Stop,Germany,Cunewalde,2013,11,268,5198.4,1113.52,4084.8799999999997
+"Rattlesnake Canyon Grocery",USA,Albuquerque,2013,11,56,1731.2,284.16,1447.04
+"Familia Arquibaldo",Brazil,"Sao Paulo",2013,11,70,928,12.4,915.6
+"Die Wandernde Kuh",Germany,Stuttgart,2013,11,102,1502.4,111.69,1390.71
+"Split Rail Beer & Ale",USA,Lander,2013,11,24,141.60000000000002,8.63,132.97000000000003
+"La maison d'Asie",France,Toulouse,2013,11,73,1165.4,187.29999999999995,978.1000000000001
+"Ernst Handel",Austria,Graz,2013,11,198,7511.8,1057.1200000000001,6454.68
+"Furia Bacalhau e Frutos do Mar",Portugal,Lisboa,2013,11,30,154,2.6,151.4
+"Piccolo und mehr",Austria,Salzburg,2013,11,62,10741.6,721.26,10020.34
+"Pericles Comidas clásicas",Mexico,"Mexico City",2013,11,16,568.8,107.6,461.19999999999993
+"Around the Horn",UK,London,2013,11,50,480,83.9,396.1
+LILA-Supermercado,Venezuela,Barquisimeto,2013,11,54,1360,104.64000000000001,1255.36
+"Seven Seas Imports",UK,London,2013,11,206,3654.4,865.29,2789.11
+"Blondesddsl père et fils",France,Strasbourg,2013,11,138,7390.2,658.5,6731.7
+"Bon app'",France,Marseille,2013,11,94,1549.6,288.12,1261.48
+"Drachenblut Delikatessen",Germany,Aachen,2013,11,44,447.2,91.62,355.58
+"Eastern Connection",UK,London,2013,11,35,950,143.94,806.06
+"Antonio Moreno Taquería",Mexico,"Mexico City",2013,11,24,403.20000000000005,22,381.20000000000005
+"Galería del gastrónomo",Spain,Barcelona,2013,11,10,136,20.28,115.72
+Vaffeljernet,Denmark,Århus,2013,11,76,834.1999999999999,54.2,779.9999999999999
+"Split Rail Beer & Ale",USA,Lander,2013,12,76,3391.2,484.23999999999995,2906.96
+"Chop-suey Chinese",Switzerland,Bern,2013,12,65,1174,3.51,1170.49
+"La maison d'Asie",France,Toulouse,2013,12,6,91.19999999999999,0.45,90.74999999999999
+"Queen Cozinha",Brazil,"Sao Paulo",2013,12,164,12281.2,3563.12,8718.080000000002
+"Hungry Owl All-Night Grocers",Ireland,Cork,2013,12,204,3127.7999999999997,388.3599999999999,2739.4399999999996
+"Wolski  Zajazd",Poland,Warszawa,2013,12,45,459,7.88,451.12
+"Hungry Coyote Import Store",USA,Elgin,2013,12,45,780,100.92,679.08
+"Mère Paillarde",Canada,Montréal,2013,12,42,420,20.39,399.61
+"Seven Seas Imports",UK,London,2013,12,115,2290,149,2141
+"Folk och fä HB",Sweden,Bräcke,2013,12,6,103.19999999999999,5.44,97.75999999999999
+"Que Delícia",Brazil,"Rio de Janeiro",2013,12,44,959.2,135.09,824.11
+LILA-Supermercado,Venezuela,Barquisimeto,2013,12,14,112,7.99,104.01
+"Ernst Handel",Austria,Graz,2013,12,334,5175.2,979.37,4195.83
+"Around the Horn",UK,London,2013,12,55,899,102.72,796.28
+"Berglunds snabbköp",Sweden,Luleå,2013,12,43,2222.3999999999996,337.28,1885.1199999999997
+"Familia Arquibaldo",Brazil,"Sao Paulo",2013,12,25,166,27.98,138.02
+"Santé Gourmet",Norway,Stavern,2013,12,48,1058.4,374.52,683.8800000000001
+"Bottom-Dollar Markets",Canada,Tsawassen,2013,12,81,1832.8,189.68,1643.12
+"Drachenblut Delikatessen",Germany,Aachen,2013,12,18,86.39999999999999,5.45,80.94999999999999
+"Piccolo und mehr",Austria,Salzburg,2013,12,50,1440,122.46,1317.54
+"Save-a-lot Markets",USA,Boise,2013,12,326,6038.6,811.1199999999999,5227.4800000000005
+HILARION-Abastos,Venezuela,"San Cristóbal",2013,12,106,2333.2000000000003,553.23,1779.9700000000003
+Frankenversand,Germany,München,2013,12,121,1903.8000000000002,406.04999999999995,1497.7500000000002
+"Princesa Isabel Vinhos",Portugal,Lisboa,2013,12,28,843.1999999999999,120.52,722.68
+Vaffeljernet,Denmark,Århus,2013,12,139,1765.6,109.44,1656.1599999999999
+"Eastern Connection",UK,London,2014,1,86,3063,251.79000000000002,2811.21
+"Rattlesnake Canyon Grocery",USA,Albuquerque,2014,1,168,3868.6,50.04,3818.56
+"Ernst Handel",Austria,Graz,2014,1,411,9515.4,2118.46,7396.94
+"Magazzini Alimentari Riuniti",Italy,Bergamo,2014,1,100,1675,467.90999999999997,1207.0900000000001
+LINO-Delicateses,Venezuela,"I. de Margarita",2014,1,50,400,34.82,365.18
+"Queen Cozinha",Brazil,"Sao Paulo",2014,1,89,2018.2,540.2,1478
+"Ottilies Käseladen",Germany,Köln,2014,1,60,1194,274.44,919.56
+"Folies gourmandes",France,Lille,2014,1,51,1622.4,33.78,1588.6200000000001
+"Océano Atlántico Ltda.",Argentina,"Buenos Aires",2014,1,24,319.20000000000005,59.66,259.5400000000001
+"Bottom-Dollar Markets",Canada,Tsawassen,2014,1,269,4533.5,208.26,4325.24
+"Wartian Herkku",Finland,Oulu,2014,1,70,1092,71.92999999999999,1020.07
+"La maison d'Asie",France,Toulouse,2014,1,108,2603.2,302.84000000000003,2300.3599999999997
+"Familia Arquibaldo",Brazil,"Sao Paulo",2014,1,68,231.4,42.96,188.44
+"Hungry Coyote Import Store",USA,Elgin,2014,1,22,102.4,0.4,102
+"Simons bistro",Denmark,Kobenhavn,2014,1,123,11283.2,281.16,11002.04
+QUICK-Stop,Germany,Cunewalde,2014,1,146,1814.8,70.2,1744.6
+"Richter Supermarkt",Switzerland,Genève,2014,1,80,2208,274.7,1933.3
+"Wellington Importadora",Brazil,Resende,2014,1,50,1897.6,176.48,1721.12
+"Que Delícia",Brazil,"Rio de Janeiro",2014,1,59,1273.2,396.92,876.28
+"Franchi S.p.A.",Italy,Torino,2014,1,2,49.8,3.02,46.779999999999994
+"Gourmet Lanchonetes",Brazil,Campinas,2014,1,34,1020,49,971
+"Mère Paillarde",Canada,Montréal,2014,1,139,11493.2,1111.83,10381.37
+"Galería del gastrónomo",Spain,Barcelona,2014,1,12,338.20000000000005,37.38,300.82000000000005
+"Piccolo und mehr",Austria,Salzburg,2014,1,35,651,31.29,619.71
+"Reggiani Caseifici",Italy,"Reggio Emilia",2014,1,20,192,11.09,180.91
+"Hungry Owl All-Night Grocers",Ireland,Cork,2014,1,75,1748.5,113.26,1635.24
+"Split Rail Beer & Ale",USA,Lander,2014,1,50,485,8.68,476.32
+"Princesa Isabel Vinhos",Portugal,Lisboa,2014,2,28,851.1999999999999,73.83,777.3699999999999
+"Folk och fä HB",Sweden,Bräcke,2014,2,49,594.8,68.38,526.42
+"Consolidated Holdings",UK,London,2014,2,32,631.6,27.630000000000003,603.97
+"Blondesddsl père et fils",France,Strasbourg,2014,2,168,4049,786.5399999999998,3262.46
+"Wartian Herkku",Finland,Oulu,2014,2,140,3077,741.77,2335.23
+"Toms Spezialitäten",Germany,Münster,2014,2,100,841.1,83.44,757.6600000000001
+"Mère Paillarde",Canada,Montréal,2014,2,67,1078,16.28,1061.72
+"Save-a-lot Markets",USA,Boise,2014,2,323,7889.1,626.64,7262.46
+"Old World Delicatessen",USA,Anchorage,2014,2,50,1755,73.02,1681.98
+"Ernst Handel",Austria,Graz,2014,2,170,1792,143.82,1648.18
+"Reggiani Caseifici",Italy,"Reggio Emilia",2014,2,18,537.5999999999999,27.9,509.69999999999993
+"Berglunds snabbköp",Sweden,Luleå,2014,2,84,1206.6000000000001,32.6,1174.0000000000002
+"Ricardo Adocicados",Brazil,"Rio de Janeiro",2014,2,77,914.4,205.98,708.42
+"Rancho grande",Argentina,"Buenos Aires",2014,2,26,443.4,77.64,365.76
+"Victuailles en stock",France,Lyon,2014,2,102,2219.4,89.73,2129.67
+QUICK-Stop,Germany,Cunewalde,2014,2,238,4277.4,756.36,3521.0399999999995
+"Around the Horn",UK,London,2014,2,40,453,50.72,402.28
+"La maison d'Asie",France,Toulouse,2014,2,50,414,8.22,405.78
+"Königlich Essen",Germany,Brandenburg,2014,2,97,2240,27.81,2212.19
+"Suprêmes délices",Belgium,Charleroi,2014,2,145,3891,735.3,3155.7
+LILA-Supermercado,Venezuela,Barquisimeto,2014,2,128,2051.6,445.83000000000004,1605.77
+"Consolidated Holdings",UK,London,2014,3,22,156.00000000000003,12.34,143.66000000000003
+"Suprêmes délices",Belgium,Charleroi,2014,3,208,2484.1,235.12,2248.98
+"Furia Bacalhau e Frutos do Mar",Portugal,Lisboa,2014,3,91,2153.3,389.91999999999996,1763.38
+Vaffeljernet,Denmark,Århus,2014,3,118,2719,725.1999999999999,1993.8000000000002
+"Comércio Mineiro",Brazil,"Sao Paulo",2014,3,15,216,23.86,192.14
+"Magazzini Alimentari Riuniti",Italy,Bergamo,2014,3,40,235.2,9.86,225.33999999999997
+"Königlich Essen",Germany,Brandenburg,2014,3,23,717.6,88.24,629.36
+"White Clover Markets",USA,Seattle,2014,3,142,1829.5,211.1,1618.4
+"Bon app'",France,Marseille,2014,3,53,1820.8,193.68,1627.12
+"B's Beverages",UK,London,2014,3,77,1714.2,111.82,1602.38
+"Seven Seas Imports",UK,London,2014,3,98,1051.1999999999998,8.4,1042.7999999999997
+"Island Trading",UK,Cowes,2014,3,24,230.39999999999998,32.74,197.65999999999997
+"Pericles Comidas clásicas",Mexico,"Mexico City",2014,3,61,1249.1,333.96,915.1399999999999
+HILARION-Abastos,Venezuela,"San Cristóbal",2014,3,186,4617.599999999999,730.98,3886.6199999999994
+"Princesa Isabel Vinhos",Portugal,Lisboa,2014,3,56,672,39.06,632.94
+"Victuailles en stock",France,Lyon,2014,3,20,496,4.81,491.19
+"Rattlesnake Canyon Grocery",USA,Albuquerque,2014,3,148,10495.6,2835.8,7659.8
+"Folies gourmandes",France,Lille,2014,3,42,756,2.7,753.3
+"Ricardo Adocicados",Brazil,"Rio de Janeiro",2014,3,64,1472,128.66,1343.34
+"Lazy K Kountry Store",USA,"Walla Walla",2014,3,10,147,7.48,139.52
+LINO-Delicateses,Venezuela,"I. de Margarita",2014,3,130,1760,257.8,1502.2
+"Queen Cozinha",Brazil,"Sao Paulo",2014,3,59,925.1,213.20999999999998,711.8900000000001
+Frankenversand,Germany,München,2014,3,50,1560,9.86,1550.14
+"Piccolo und mehr",Austria,Salzburg,2014,3,33,502.20000000000005,10.58,491.62000000000006
+"Bottom-Dollar Markets",Canada,Tsawassen,2014,4,80,896,125.78,770.22
+"La maison d'Asie",France,Toulouse,2014,4,55,1226.8,117.28,1109.52
+"Comércio Mineiro",Brazil,"Sao Paulo",2014,4,30,912,65.99,846.01
+"Laughing Bacchus Wine Cellars",Canada,Vancouver,2014,4,35,278,13.950000000000001,264.05
+"Tradição Hipermercados",Brazil,"Sao Paulo",2014,4,20,200,46.77,153.23
+"Lehmanns Marktstand",Germany,"Frankfurt a.M.",2014,4,173,4038.3999999999996,289.94999999999993,3748.45
+HILARION-Abastos,Venezuela,"San Cristóbal",2014,4,49,575,89.25,485.75
+LILA-Supermercado,Venezuela,Barquisimeto,2014,4,45,1412,204.04,1207.96
+"Blauer See Delikatessen",Germany,Mannheim,2014,4,23,285.8,9,276.8
+"Pericles Comidas clásicas",Mexico,"Mexico City",2014,4,57,816.3,207.95999999999998,608.3399999999999
+"Hungry Owl All-Night Grocers",Ireland,Cork,2014,4,215,4663,221.82,4441.18
+"White Clover Markets",USA,Seattle,2014,4,59,1388.5,236.52,1151.98
+"Mère Paillarde",Canada,Montréal,2014,4,3,147.89999999999998,7.13,140.76999999999998
+"Königlich Essen",Germany,Brandenburg,2014,4,32,462,42.38,419.62
+"Antonio Moreno Taquería",Mexico,"Mexico City",2014,4,30,881.25,94.9,786.35
+"Ottilies Käseladen",Germany,Köln,2014,4,20,240,9.98,230.02
+"Save-a-lot Markets",USA,Boise,2014,4,72,4735.4400000000005,735.26,4000.1800000000003
+"Bon app'",France,Marseille,2014,4,110,3000,1051.92,1948.08
+"Familia Arquibaldo",Brazil,"Sao Paulo",2014,4,37,618,14.12,603.88
+"Die Wandernde Kuh",Germany,Stuttgart,2014,4,105,2427.5,316.95000000000005,2110.55
+"Ernst Handel",Austria,Graz,2014,4,233,8623.45,3949.75,4673.700000000001
+QUICK-Stop,Germany,Cunewalde,2014,4,286,10588.5,1022.35,9566.15
+North/South,UK,London,2014,4,16,352,96.21000000000001,255.79
+"Tortuga Restaurante",Mexico,"Mexico City",2014,4,29,4150.05,654.45,3495.6000000000004
+"Chop-suey Chinese",Switzerland,Bern,2014,4,66,2356,275.28000000000003,2080.72
+"Santé Gourmet",Norway,Stavern,2014,4,13,200,26.74,173.26
+"Cactus Comidas para llevar",Argentina,"Buenos Aires",2014,4,19,225.5,51.66,173.84
+"Seven Seas Imports",UK,London,2014,5,148,4623.9,667.38,3956.5199999999995
+"Berglunds snabbköp",Sweden,Luleå,2014,5,87,3192.65,979.16,2213.4900000000002
+"Bon app'",France,Marseille,2014,5,45,846,22.12,823.88
+"Wartian Herkku",Finland,Oulu,2014,5,137,2890.3,923.22,1967.0800000000002
+QUICK-Stop,Germany,Cunewalde,2014,5,448,16043.2,4628.079999999999,11415.120000000003
+"Great Lakes Food Market",USA,Eugene,2014,5,20,396.2,10.05,386.15
+"Maison Dewey",Belgium,Bruxelles,2014,5,44,946,200.07,745.9300000000001
+"Piccolo und mehr",Austria,Salzburg,2014,5,135,4180,1356.88,2823.12
+"Océano Atlántico Ltda.",Argentina,"Buenos Aires",2014,5,2,110,8.12,101.88
+"Eastern Connection",UK,London,2014,5,39,796.35,148.92,647.4300000000001
+"Folk och fä HB",Sweden,Bräcke,2014,5,98,2295.2,564.12,1731.08
+"Lehmanns Marktstand",Germany,"Frankfurt a.M.",2014,5,130,2602.4,319.34000000000003,2283.06
+"Antonio Moreno Taquería",Mexico,"Mexico City",2014,5,80,2156.5,62.56,2093.94
+"Richter Supermarkt",Switzerland,Genève,2014,5,86,1823.8,394.25,1429.55
+"B's Beverages",UK,London,2014,5,52,495.3,59.18,436.12
+"Hanari Carnes",Brazil,"Rio de Janeiro",2014,5,84,2162.8,274.6,1888.2000000000003
+"Königlich Essen",Germany,Brandenburg,2014,5,39,493.8,21.9,471.90000000000003
+LILA-Supermercado,Venezuela,Barquisimeto,2014,5,100,1770,96.34,1673.66
+"Lonesome Pine Restaurant",USA,Portland,2014,5,14,417.2,49.82,367.38
+"Lazy K Kountry Store",USA,"Walla Walla",2014,5,10,210,11.92,198.08
+"Victuailles en stock",France,Lyon,2014,5,80,2812,584.16,2227.84
+"Toms Spezialitäten",Germany,Münster,2014,5,24,275.1,2.86,272.24
+"Godos Cocina Típica",Spain,Sevilla,2014,5,34,749,17.28,731.72
+"Furia Bacalhau e Frutos do Mar",Portugal,Lisboa,2014,5,100,1836,218.85000000000002,1617.15
+HILARION-Abastos,Venezuela,"San Cristóbal",2014,5,48,880.5,166.44,714.06
+"Ottilies Käseladen",Germany,Köln,2014,5,80,1819.5,483.88,1335.62
+"Save-a-lot Markets",USA,Boise,2014,6,143,3680.5,1262.45,2418.05
+"Simons bistro",Denmark,Kobenhavn,2014,6,24,835.1999999999999,9.8,825.4
+"Lehmanns Marktstand",Germany,"Frankfurt a.M.",2014,6,50,1152.5,193.44,959.06
+"Around the Horn",UK,London,2014,6,96,2142.9,364.85,1778.0500000000002
+"Blondesddsl père et fils",France,Strasbourg,2014,6,143,3212.8,340.44,2872.36
+Frankenversand,Germany,München,2014,6,35,1257.3,73.3,1184
+"Folk och fä HB",Sweden,Bräcke,2014,6,60,2844.5,484.42,2360.08
+"Reggiani Caseifici",Italy,"Reggio Emilia",2014,6,30,543,45.9,497.1
+"Ricardo Adocicados",Brazil,"Rio de Janeiro",2014,6,95,965,120.86,844.14
+"Rattlesnake Canyon Grocery",USA,Albuquerque,2014,6,112,2276.5,159.20999999999998,2117.29
+"Mère Paillarde",Canada,Montréal,2014,6,118,3306,392.28000000000003,2913.72
+"Hungry Owl All-Night Grocers",Ireland,Cork,2014,6,103,3109,101.91,3007.09
+"Galería del gastrónomo",Spain,Barcelona,2014,6,5,155,6.54,148.46
+"Ernst Handel",Austria,Graz,2014,6,39,647.75,52.12,595.63
+"Berglunds snabbköp",Sweden,Luleå,2014,6,87,1565.6499999999999,465.72,1099.9299999999998
+"Antonio Moreno Taquería",Mexico,"Mexico City",2014,6,83,2082,254.52,1827.48
+"Trail's Head Gourmet Provisioners",USA,Kirkland,2014,6,80,1333.3,226.63,1106.67
+"Morgenstern Gesundkost",Germany,Leipzig,2014,6,58,2147.4,509.36,1638.04
+"Tortuga Restaurante",Mexico,"Mexico City",2014,6,51,838.45,55.67999999999999,782.7700000000001
+"B's Beverages",UK,London,2014,6,26,477,59.2,417.8
+"Let's Stop N Shop",USA,"San Francisco",2014,6,31,317.75,27.46,290.29
+"Ottilies Käseladen",Germany,Köln,2014,6,54,1067.1,227.67000000000002,839.4299999999998
+"Familia Arquibaldo",Brazil,"Sao Paulo",2014,6,50,387.5,3.01,384.49
+"Blauer See Delikatessen",Germany,Mannheim,2014,6,18,330,55.42,274.58
+"Wartian Herkku",Finland,Oulu,2014,6,44,2413.9,21.84,2392.06
+"Wellington Importadora",Brazil,Resende,2014,7,15,142.5,13.41,129.09
+"Reggiani Caseifici",Italy,"Reggio Emilia",2014,7,4,28,0.48,27.52
+"Que Delícia",Brazil,"Rio de Janeiro",2014,7,46,807.38,187.56,619.8199999999999
+QUICK-Stop,Germany,Cunewalde,2014,7,140,3900,389.34,3510.66
+"Great Lakes Food Market",USA,Eugene,2014,7,93,6754,489.06999999999994,6264.93
+"Mère Paillarde",Canada,Montréal,2014,7,215,5466,1606.06,3859.94
+Vaffeljernet,Denmark,Århus,2014,7,79,877.5,170.67999999999998,706.82
+"Lehmanns Marktstand",Germany,"Frankfurt a.M.",2014,7,75,3036.65,586.8,2449.8500000000004
+"Old World Delicatessen",USA,Anchorage,2014,7,54,565.5,10.48,555.02
+"Ernst Handel",Austria,Graz,2014,7,215,6300,290.34000000000003,6009.66
+"White Clover Markets",USA,Seattle,2014,7,59,1476.1,49.019999999999996,1427.08
+"Piccolo und mehr",Austria,Salzburg,2014,7,67,800.1,105.35999999999999,694.74
+"Rattlesnake Canyon Grocery",USA,Albuquerque,2014,7,59,2388.5,88.84,2299.66
+"B's Beverages",UK,London,2014,7,10,493,29.98,463.02
+"Hungry Coyote Import Store",USA,Elgin,2014,7,34,479.8,90.26,389.54
+HILARION-Abastos,Venezuela,"San Cristóbal",2014,7,143,2643,132.82,2510.18
+"Save-a-lot Markets",USA,Boise,2014,7,549,14358.400000000001,3819.14,10539.260000000002
+"Furia Bacalhau e Frutos do Mar",Portugal,Lisboa,2014,7,16,256.5,14.92,241.58
+"Tradição Hipermercados",Brazil,"Sao Paulo",2014,7,50,1413,238.20000000000002,1174.8
+"Toms Spezialitäten",Germany,Münster,2014,7,28,1064,27.79,1036.21
+"Du monde entier",France,Nantes,2014,7,19,424,5.550000000000001,418.45
+"La maison d'Asie",France,Toulouse,2014,7,21,399,26.78,372.22
+"Wolski  Zajazd",Poland,Warszawa,2014,7,31,808,241.95000000000002,566.05
+"Blauer See Delikatessen",Germany,Mannheim,2014,7,27,464,5.79,458.21
+"Wilman Kala",Finland,Helsinki,2014,7,5,120,0.75,119.25
+"Mère Paillarde",Canada,Montréal,2014,8,187,3957.5,646.14,3311.36
+"Laughing Bacchus Wine Cellars",Canada,Vancouver,2014,8,10,57.5,1.88,55.62
+"Island Trading",UK,Cowes,2014,8,50,758.5,94.92,663.58
+"Ricardo Adocicados",Brazil,"Rio de Janeiro",2014,8,68,987.5,130.44,857.06
+Frankenversand,Germany,München,2014,8,94,1429.75,485.90000000000003,943.8499999999999
+"The Cracker Box",USA,Butte,2014,8,26,1393.24,284.4,1108.8400000000001
+"Ana Trujillo Emparedados y helados",Mexico,"Mexico City",2014,8,18,479.75,131.7,348.05
+"Berglunds snabbköp",Sweden,Luleå,2014,8,52,1503.6,416.07,1087.53
+"Save-a-lot Markets",USA,Boise,2014,8,50,1264.5,214.92,1049.58
+"Blondesddsl père et fils",France,Strasbourg,2014,8,25,450,30.36,419.64
+"Godos Cocina Típica",Spain,Sevilla,2014,8,29,2775.05,170.92,2604.13
+"Königlich Essen",Germany,Brandenburg,2014,8,47,918,64.7,853.3
+"La maison d'Asie",France,Toulouse,2014,8,8,62,0.87,61.13
+"Die Wandernde Kuh",Germany,Stuttgart,2014,8,85,1565,129.86,1435.1399999999999
+"Ernst Handel",Austria,Graz,2014,8,164,6483.05,1911.6,4571.450000000001
+"Folies gourmandes",France,Lille,2014,8,102,4985.5,1949.52,3035.98
+"Magazzini Alimentari Riuniti",Italy,Bergamo,2014,8,65,1380.25,142.38,1237.87
+"Wartian Herkku",Finland,Oulu,2014,8,31,629.5,2.3,627.2
+"Queen Cozinha",Brazil,"Sao Paulo",2014,8,95,2896.25,603.87,2292.38
+LINO-Delicateses,Venezuela,"I. de Margarita",2014,8,101,2720.05,475.32,2244.73
+"Santé Gourmet",Norway,Stavern,2014,8,8,500,38.64,461.36
+HILARION-Abastos,Venezuela,"San Cristóbal",2014,8,110,2054,359.22,1694.78
+"Simons bistro",Denmark,Kobenhavn,2014,8,50,870,83.78,786.22
+"Alfreds Futterkiste",Germany,Berlin,2014,8,38,1086,88.38,997.62
+"Wellington Importadora",Brazil,Resende,2014,8,45,1422,0.42000000000000004,1421.58
+"Hanari Carnes",Brazil,"Rio de Janeiro",2014,8,35,1535,24.82,1510.18
+"Hungry Owl All-Night Grocers",Ireland,Cork,2014,8,98,1928,569.32,1358.6799999999998
+"Que Delícia",Brazil,"Rio de Janeiro",2014,8,50,636,91.08,544.92
+"Maison Dewey",Belgium,Bruxelles,2014,8,35,1434,12.4,1421.6
+"Familia Arquibaldo",Brazil,"Sao Paulo",2014,8,85,1820.1999999999998,530.4300000000001,1289.7699999999998
+"Die Wandernde Kuh",Germany,Stuttgart,2014,9,59,1225.15,182.85999999999999,1042.2900000000002
+"Gourmet Lanchonetes",Brazil,Campinas,2014,9,61,1132.88,115.53,1017.3500000000001
+Frankenversand,Germany,München,2014,9,312,4928.25,1299.4499999999998,3628.8
+"Berglunds snabbköp",Sweden,Luleå,2014,9,65,4879.2,357.28,4521.92
+"Reggiani Caseifici",Italy,"Reggio Emilia",2014,9,20,193,4.41,188.59
+"Great Lakes Food Market",USA,Eugene,2014,9,107,1998.35,399.84,1598.51
+"Save-a-lot Markets",USA,Boise,2014,9,484,9628.1,3672.06,5956.040000000001
+QUICK-Stop,Germany,Cunewalde,2014,9,255,4668,1456.6,3211.4
+"Queen Cozinha",Brazil,"Sao Paulo",2014,9,84,1291.6,317.43,974.1699999999998
+"Hungry Coyote Import Store",USA,Elgin,2014,9,21,1701,111.29,1589.71
+"Hungry Owl All-Night Grocers",Ireland,Cork,2014,9,118,6905.15,924.3900000000001,5980.759999999999
+"Lonesome Pine Restaurant",USA,Portland,2014,9,41,1420,80.21,1339.79
+"Bon app'",France,Marseille,2014,9,80,2032,339.45000000000005,1692.55
+"Furia Bacalhau e Frutos do Mar",Portugal,Lisboa,2014,9,51,1515.75,3.81,1511.94
+"Richter Supermarkt",Switzerland,Genève,2014,9,46,4666.9400000000005,464.84,4202.1
+"Ernst Handel",Austria,Graz,2014,9,59,1921,156.18,1764.82
+"Simons bistro",Denmark,Kobenhavn,2014,9,30,570,24.39,545.61
+"France restauration",France,Nantes,2014,9,32,920.1,91.02,829.08
+"Wilman Kala",Finland,Helsinki,2014,9,15,412.35,68.28,344.07000000000005
+"Island Trading",UK,Cowes,2014,9,5,45,0.9,44.1
+"Tortuga Restaurante",Mexico,"Mexico City",2014,9,30,534.85,6.029999999999999,528.82
+"Antonio Moreno Taquería",Mexico,"Mexico City",2014,9,102,1332.4,116.45000000000002,1215.95
+"Blondesddsl père et fils",France,Strasbourg,2014,9,12,660,27.94,632.06
+"Old World Delicatessen",USA,Anchorage,2014,9,110,1682.5,79.83,1602.67
+"Du monde entier",France,Nantes,2014,9,9,63,4.4,58.6
+"Ottilies Käseladen",Germany,Köln,2014,9,90,1768,436.89,1331.1100000000001
+"Piccolo und mehr",Austria,Salzburg,2014,9,45,1638.45,193,1445.45
+Vaffeljernet,Denmark,Århus,2014,10,92,3490,897.27,2592.73
+"Berglunds snabbköp",Sweden,Luleå,2014,10,35,630,13.42,616.58
+"Hanari Carnes",Brazil,"Rio de Janeiro",2014,10,50,1150,31.6,1118.4
+QUICK-Stop,Germany,Cunewalde,2014,10,397,15962.3,5294.249999999999,10668.05
+"Alfreds Futterkiste",Germany,Berlin,2014,10,41,1208,108.9,1099.1
+"White Clover Markets",USA,Seattle,2014,10,164,3798.45,784.18,3014.27
+"Wilman Kala",Finland,Helsinki,2014,10,34,642,50.16,591.84
+LINO-Delicateses,Venezuela,"I. de Margarita",2014,10,76,1073.9,182.08,891.82
+"Ernst Handel",Austria,Graz,2014,10,108,3600.73,1362.3500000000001,2238.38
+"Morgenstern Gesundkost",Germany,Leipzig,2014,10,12,114,0.58,113.42
+"Save-a-lot Markets",USA,Boise,2014,10,750,13838.599999999999,1506.5999999999995,12332
+"Hungry Owl All-Night Grocers",Ireland,Cork,2014,10,130,4608.4,840.7900000000002,3767.6099999999997
+"Folk och fä HB",Sweden,Bräcke,2014,10,75,2545,456.90000000000003,2088.1
+"Queen Cozinha",Brazil,"Sao Paulo",2014,10,65,595.5,14.34,581.16
+HILARION-Abastos,Venezuela,"San Cristóbal",2014,10,24,378,7.04,370.96
+"Old World Delicatessen",USA,Anchorage,2014,10,52,1893,406.89,1486.1100000000001
+"Around the Horn",UK,London,2014,10,89,1704,65.22,1638.78
+"The Big Cheese",USA,Portland,2014,10,9,180.4,5.92,174.48000000000002
+"Gourmet Lanchonetes",Brazil,Campinas,2014,10,78,3424,632.4000000000001,2791.6
+"Franchi S.p.A.",Italy,Torino,2014,10,10,93.5,9.96,83.53999999999999
+"Bon app'",France,Marseille,2014,10,51,1296,126.4,1169.6
+"Rancho grande",Argentina,"Buenos Aires",2014,10,22,706,67.71000000000001,638.29
+Frankenversand,Germany,München,2014,10,72,1331.75,177.75,1154
+"Königlich Essen",Germany,Brandenburg,2014,10,116,3463,683.52,2779.48
+"Let's Stop N Shop",USA,"San Francisco",2014,10,55,1125.67,154.32,971.3500000000001
+"Que Delícia",Brazil,"Rio de Janeiro",2014,10,29,550,19.06,530.94
+"Mère Paillarde",Canada,Montréal,2014,10,21,638.5,115.5,523
+"Familia Arquibaldo",Brazil,"Sao Paulo",2014,10,22,287.8,32.49,255.31
+"Eastern Connection",UK,London,2014,11,30,655,33.12,621.88
+"Reggiani Caseifici",Italy,"Reggio Emilia",2014,11,40,1710,269.70000000000005,1440.3
+"Queen Cozinha",Brazil,"Sao Paulo",2014,11,48,1296.75,233.32,1063.43
+LINO-Delicateses,Venezuela,"I. de Margarita",2014,11,120,1850,423.18,1426.82
+"Bon app'",France,Marseille,2014,11,147,3467.75,144.17000000000002,3323.58
+"Chop-suey Chinese",Switzerland,Bern,2014,11,153,4301.7,319.02000000000004,3982.68
+"Berglunds snabbköp",Sweden,Luleå,2014,11,61,1459,330.33,1128.67
+"Gourmet Lanchonetes",Brazil,Campinas,2014,11,65,1498.35,4.89,1493.4599999999998
+"Let's Stop N Shop",USA,"San Francisco",2014,11,22,596,91.94,504.06
+"Hungry Owl All-Night Grocers",Ireland,Cork,2014,11,60,997,88.2,908.8
+"Vins et alcools Chevalier",France,Reims,2014,11,40,379.8,37.74,342.06
+"Spécialités du monde",France,Paris,2014,11,3,52.349999999999994,2.91,49.44
+"White Clover Markets",USA,Seattle,2014,11,94,1770,327.52,1442.48
+"Around the Horn",UK,London,2014,11,43,621,34.68,586.32
+"Bottom-Dollar Markets",Canada,Tsawassen,2014,11,105,3118,731.1899999999999,2386.81
+Vaffeljernet,Denmark,Århus,2014,11,50,919.9999999999999,69.19,850.81
+QUICK-Stop,Germany,Cunewalde,2014,11,92,4529.8,14.08,4515.72
+"Piccolo und mehr",Austria,Salzburg,2014,11,82,1912.85,469.32,1443.53
+"Save-a-lot Markets",USA,Boise,2014,11,203,5278,730.4100000000003,4547.59
+"Island Trading",UK,Cowes,2014,11,31,1080,184.59,895.41
+"Wartian Herkku",Finland,Oulu,2014,11,70,1871.25,237.89999999999998,1633.35
+"Richter Supermarkt",Switzerland,Genève,2014,11,197,3346.06,937.6699999999998,2408.3900000000003
+North/South,UK,London,2014,11,11,252,2.78,249.22
+"Franchi S.p.A.",Italy,Torino,2014,11,9,88,15.4,72.6
+"Magazzini Alimentari Riuniti",Italy,Bergamo,2014,11,3,55.199999999999996,2.38,52.81999999999999
+"Split Rail Beer & Ale",USA,Lander,2014,11,67,2487.5,292.84,2194.66
+"Ana Trujillo Emparedados y helados",Mexico,"Mexico City",2014,11,10,320,11.99,308.01
+"Maison Dewey",Belgium,Bruxelles,2014,12,82,3304,466.91999999999996,2837.08
+"Rattlesnake Canyon Grocery",USA,Albuquerque,2014,12,53,629.5,37.32,592.18
+"Folk och fä HB",Sweden,Bräcke,2014,12,186,5212,1411.3600000000001,3800.64
+"Folies gourmandes",France,Lille,2014,12,159,4303,514.45,3788.55
+"Ernst Handel",Austria,Graz,2014,12,551,14584,2250.8199999999997,12333.18
+QUICK-Stop,Germany,Cunewalde,2014,12,170,2454,128.14,2325.86
+"Ottilies Käseladen",Germany,Köln,2014,12,115,2310,472.65000000000003,1837.35
+"Suprêmes délices",Belgium,Charleroi,2014,12,2,28,1.59,26.41
+"Around the Horn",UK,London,2014,12,103,1668.1,594.3199999999999,1073.78
+Vaffeljernet,Denmark,Århus,2014,12,80,1704,260.24,1443.76
+"Hanari Carnes",Brazil,"Rio de Janeiro",2014,12,30,1757.5,255.28000000000003,1502.22
+"Lehmanns Marktstand",Germany,"Frankfurt a.M.",2014,12,43,3603.2200000000003,182.56,3420.6600000000003
+"The Cracker Box",USA,Butte,2014,12,9,228,40.5,187.5
+"Gourmet Lanchonetes",Brazil,Campinas,2014,12,43,1130,59.47,1070.53
+"Berglunds snabbköp",Sweden,Luleå,2014,12,10,96.5,6.79,89.71
+"Morgenstern Gesundkost",Germany,Leipzig,2014,12,40,1335,116.26,1218.74
+LILA-Supermercado,Venezuela,Barquisimeto,2014,12,50,720,84.26,635.74
+"Wartian Herkku",Finland,Oulu,2014,12,58,1132.35,219.48,912.8699999999999
+"Cactus Comidas para llevar",Argentina,"Buenos Aires",2014,12,1,12.5,1.1,11.4
+"Magazzini Alimentari Riuniti",Italy,Bergamo,2014,12,62,1650,210.27,1439.73
+GROSELLA-Restaurante,Venezuela,Caracas,2014,12,20,387.5,3.02,384.48
+"Queen Cozinha",Brazil,"Sao Paulo",2014,12,87,1913.85,332.61,1581.2399999999998
+"La maison d'Asie",France,Toulouse,2014,12,35,2760.8,499.86,2260.94
+Frankenversand,Germany,München,2014,12,34,1926.0600000000002,33.7,1892.3600000000001
+"Wolski  Zajazd",Poland,Warszawa,2014,12,28,399.85,71.37,328.48
+"Que Delícia",Brazil,"Rio de Janeiro",2014,12,21,393.45,42.98,350.46999999999997
+HILARION-Abastos,Venezuela,"San Cristóbal",2014,12,90,2878.08,106.08,2772
+"Drachenblut Delikatessen",Germany,Aachen,2014,12,20,420,33.35,386.65
+"Island Trading",UK,Cowes,2014,12,12,446.6,4.66,441.94
+"Königlich Essen",Germany,Brandenburg,2014,12,65,1585,92.28,1492.72
+"Seven Seas Imports",UK,London,2014,12,131,3922.55,494.30999999999995,3428.2400000000002
+"Bólido Comidas preparadas",Spain,Madrid,2014,12,60,4035.8,194.18,3841.6200000000003
+"Simons bistro",Denmark,Kobenhavn,2014,12,120,3923.75,1029.04,2894.71
+"Wellington Importadora",Brazil,Resende,2014,12,54,1255.8,165.69,1090.11
+"The Big Cheese",USA,Portland,2014,12,20,2775,474.68,2300.32
+"Victuailles en stock",France,Lyon,2014,12,37,572.1,66.33,505.77000000000004
+"Franchi S.p.A.",Italy,Torino,2014,12,1,18.4,1.36,17.04
+"Old World Delicatessen",USA,Anchorage,2015,1,173,3935.25,774.94,3160.31
+"Wellington Importadora",Brazil,Resende,2015,1,20,140,4.87,135.13
+"Laughing Bacchus Wine Cellars",Canada,Vancouver,2015,1,17,187,12.99,174.01
+LINO-Delicateses,Venezuela,"I. de Margarita",2015,1,158,3700.5,276.91999999999996,3423.58
+"Reggiani Caseifici",Italy,"Reggio Emilia",2015,1,76,1852,179.34,1672.66
+"Ricardo Adocicados",Brazil,"Rio de Janeiro",2015,1,114,3388,736.96,2651.04
+"Victuailles en stock",France,Lyon,2015,1,136,3022,680.5900000000001,2341.41
+"Save-a-lot Markets",USA,Boise,2015,1,304,6204.9,2940.04,3264.8599999999997
+"Great Lakes Food Market",USA,Eugene,2015,1,50,8891,1439.56,7451.4400000000005
+"Königlich Essen",Germany,Brandenburg,2015,1,222,12542.84,1225.3999999999999,11317.44
+"Magazzini Alimentari Riuniti",Italy,Bergamo,2015,1,40,833,130.96,702.04
+"Cactus Comidas para llevar",Argentina,"Buenos Aires",2015,1,27,477,39.52,437.48
+"Rattlesnake Canyon Grocery",USA,Albuquerque,2015,1,101,4124,559.6700000000001,3564.33
+"Split Rail Beer & Ale",USA,Lander,2015,1,26,678,73.36,604.64
+"Trail's Head Gourmet Provisioners",USA,Kirkland,2015,1,9,237.89999999999998,14,223.89999999999998
+LILA-Supermercado,Venezuela,Barquisimeto,2015,1,90,3107.5,655.88,2451.62
+"Folk och fä HB",Sweden,Bräcke,2015,1,21,250.8,2.46,248.34
+"Drachenblut Delikatessen",Germany,Aachen,2015,1,32,1030.76,158.5,872.26
+"Blondesddsl père et fils",France,Strasbourg,2015,1,50,730,14.18,715.82
+"Bon app'",France,Marseille,2015,1,36,843,127.08,715.92
+"Rancho grande",Argentina,"Buenos Aires",2015,1,7,932,181.7,750.3
+"Island Trading",UK,Cowes,2015,1,61,1764,618.88,1145.12
+"Tradição Hipermercados",Brazil,"Sao Paulo",2015,1,161,4401.62,457.74,3943.88
+"Santé Gourmet",Norway,Stavern,2015,1,27,2684.4,288.76,2395.6400000000003
+"La maison d'Asie",France,Toulouse,2015,1,32,568.95,173.04,395.9100000000001
+"Ottilies Käseladen",Germany,Köln,2015,1,38,1007.7,214.46999999999997,793.23
+"Alfreds Futterkiste",Germany,Berlin,2015,1,17,851,139.06,711.94
+"Ernst Handel",Austria,Graz,2015,1,337,8195.5,2259.8399999999997,5935.66
+"Berglunds snabbköp",Sweden,Luleå,2015,1,167,3884.9500000000003,619.83,3265.1200000000003
+"Suprêmes délices",Belgium,Charleroi,2015,1,182,5693,1866.5800000000002,3826.42
+"Tortuga Restaurante",Mexico,"Mexico City",2015,1,52,975,217.68,757.3199999999999
+"Piccolo und mehr",Austria,Salzburg,2015,1,35,735,25.22,709.78
+QUICK-Stop,Germany,Cunewalde,2015,1,245,4059,1064.8999999999999,2994.1000000000004
+"Consolidated Holdings",UK,London,2015,1,33,931.5,76.48,855.02
+"Blauer See Delikatessen",Germany,Mannheim,2015,1,10,625,53.83,571.17
+"Antonio Moreno Taquería",Mexico,"Mexico City",2015,1,40,660,116.86,543.14
+"La corne d'abondance",France,Versailles,2015,1,19,649,157.53,491.47
+Frankenversand,Germany,München,2015,1,105,1438.25,228.29999999999998,1209.95
+"France restauration",France,Nantes,2015,1,23,519,38.52,480.48
+"White Clover Markets",USA,Seattle,2015,1,140,3523.4,74.65,3448.75
+"Lehmanns Marktstand",Germany,"Frankfurt a.M.",2015,1,33,581,106.46,474.54
+HILARION-Abastos,Venezuela,"San Cristóbal",2015,2,92,1453.5,184.70000000000002,1268.8
+"Around the Horn",UK,London,2015,2,19,282,6.08,275.92
+QUICK-Stop,Germany,Cunewalde,2015,2,160,18870,742.97,18127.03
+"Berglunds snabbköp",Sweden,Luleå,2015,2,128,2191.1,424.44,1766.6599999999999
+"Lonesome Pine Restaurant",USA,Portland,2015,2,11,134.39999999999998,2.46,131.93999999999997
+"Queen Cozinha",Brazil,"Sao Paulo",2015,2,202,3500.85,694.15,2806.7
+"Seven Seas Imports",UK,London,2015,2,120,1630,573.12,1056.88
+"Wolski  Zajazd",Poland,Warszawa,2015,2,20,587.5,50.37,537.13
+"Bon app'",France,Marseille,2015,2,119,3000.4,457.65000000000003,2542.75
+"Godos Cocina Típica",Spain,Sevilla,2015,2,151,3939.8,939.1700000000001,3000.63
+"Wilman Kala",Finland,Helsinki,2015,2,82,1401,141.47,1259.53
+"Ricardo Adocicados",Brazil,"Rio de Janeiro",2015,2,55,2086,76.12,2009.88
+"Folk och fä HB",Sweden,Bräcke,2015,2,146,2890.8,352.33,2538.4700000000003
+"Cactus Comidas para llevar",Argentina,"Buenos Aires",2015,2,10,150,2.84,147.16
+"Save-a-lot Markets",USA,Boise,2015,2,275,3886.4,417.69,3468.71
+"Let's Stop N Shop",USA,"San Francisco",2015,2,73,1450.6,272.90999999999997,1177.69
+"Suprêmes délices",Belgium,Charleroi,2015,2,87,1209,22.56,1186.44
+"Hanari Carnes",Brazil,"Rio de Janeiro",2015,2,226,4059.55,125.1,3934.4500000000003
+"Galería del gastrónomo",Spain,Barcelona,2015,2,5,70,1.25,68.75
+"Rattlesnake Canyon Grocery",USA,Albuquerque,2015,2,80,11380,561.22,10818.78
+"Du monde entier",France,Nantes,2015,2,39,860.1,98.28,761.82
+"Lehmanns Marktstand",Germany,"Frankfurt a.M.",2015,2,15,388.35,20.37,367.98
+"Maison Dewey",Belgium,Bruxelles,2015,2,71,2950.5,185.17000000000002,2765.33
+"Königlich Essen",Germany,Brandenburg,2015,2,119,5502.11,388.9,5113.21
+"Ernst Handel",Austria,Graz,2015,2,346,6379.4,651,5728.4
+"Hungry Owl All-Night Grocers",Ireland,Cork,2015,2,216,19102.640000000003,2368.8999999999996,16733.740000000005
+"Océano Atlántico Ltda.",Argentina,"Buenos Aires",2015,2,5,30,1.27,28.73
+LILA-Supermercado,Venezuela,Barquisimeto,2015,2,8,144,1.21,142.79
+"Wellington Importadora",Brazil,Resende,2015,2,23,405,15.38,389.62
+"White Clover Markets",USA,Seattle,2015,2,50,1924.25,325.9,1598.35
+"Spécialités du monde",France,Paris,2015,2,14,108.5,9.19,99.31
+"Reggiani Caseifici",Italy,"Reggio Emilia",2015,2,34,698,65.92,632.08
+"Santé Gourmet",Norway,Stavern,2015,2,32,670,159.14999999999998,510.85
+"Tortuga Restaurante",Mexico,"Mexico City",2015,2,50,539.5,10.53,528.97
+"Rancho grande",Argentina,"Buenos Aires",2015,2,32,686.7,191.31,495.39000000000004
+"Romero y tomillo",Spain,Madrid,2015,3,11,365.89,16.58,349.31
+"Bottom-Dollar Markets",Canada,Tsawassen,2015,3,289,9222.6,646.74,8575.86
+LINO-Delicateses,Venezuela,"I. de Margarita",2015,3,175,3024.8999999999996,171.04,2853.8599999999997
+"Around the Horn",UK,London,2015,3,124,5065,77.05,4987.95
+Vaffeljernet,Denmark,Århus,2015,3,140,3343.5,434.55999999999995,2908.94
+"Hanari Carnes",Brazil,"Rio de Janeiro",2015,3,147,17111.5,323.39,16788.11
+"La maison d'Asie",France,Toulouse,2015,3,44,936,204.78000000000003,731.22
+"Berglunds snabbköp",Sweden,Luleå,2015,3,56,2034.5,454.56000000000006,1579.94
+"Ana Trujillo Emparedados y helados",Mexico,"Mexico City",2015,3,29,514.4,159.68,354.71999999999997
+"La corne d'abondance",France,Versailles,2015,3,64,1343.0500000000002,104.92,1238.13
+"Galería del gastrónomo",Spain,Barcelona,2015,3,10,137.5,2.72,134.78
+Frankenversand,Germany,München,2015,3,124,1174.75,101.78999999999999,1072.96
+"Suprêmes délices",Belgium,Charleroi,2015,3,116,2455,62.2,2392.8
+"Richter Supermarkt",Switzerland,Genève,2015,3,143,1319.9,119.75,1200.15
+"Bon app'",France,Marseille,2015,3,108,2285.5,578.0999999999999,1707.4
+"Island Trading",UK,Cowes,2015,3,32,920.6,108.3,812.3000000000001
+"Lehmanns Marktstand",Germany,"Frankfurt a.M.",2015,3,20,500,32.01,467.99
+"Wellington Importadora",Brazil,Resende,2015,3,33,700,142.77,557.23
+"Great Lakes Food Market",USA,Eugene,2015,3,30,570,33.68,536.32
+"Cactus Comidas para llevar",Argentina,"Buenos Aires",2015,3,28,644.8,63.02,581.78
+QUICK-Stop,Germany,Cunewalde,2015,3,323,7226.5,1506.51,5719.99
+"Magazzini Alimentari Riuniti",Italy,Bergamo,2015,3,55,860,155.16,704.84
+"Save-a-lot Markets",USA,Boise,2015,3,418,7375.25,3551.979999999999,3823.270000000001
+"Reggiani Caseifici",Italy,"Reggio Emilia",2015,3,28,560,17.95,542.05
+"B's Beverages",UK,London,2015,3,55,931,9.77,921.23
+"Morgenstern Gesundkost",Germany,Leipzig,2015,3,30,245,20.44,224.56
+"Godos Cocina Típica",Spain,Sevilla,2015,3,53,2362.25,70.17,2292.08
+"Alfreds Futterkiste",Germany,Berlin,2015,3,18,491.2,80.84,410.36
+"Folk och fä HB",Sweden,Bräcke,2015,3,142,2636,838.52,1797.48
+"Blauer See Delikatessen",Germany,Mannheim,2015,3,34,677,133.95,543.05
+HILARION-Abastos,Venezuela,"San Cristóbal",2015,3,132,2951.3,358.2099999999999,2593.09
+"Océano Atlántico Ltda.",Argentina,"Buenos Aires",2015,3,101,3001,1020.1200000000001,1980.8799999999999
+"Gourmet Lanchonetes",Brazil,Campinas,2015,3,20,155,4.98,150.02
+"Queen Cozinha",Brazil,"Sao Paulo",2015,3,66,1122,208.94,913.06
+"Furia Bacalhau e Frutos do Mar",Portugal,Lisboa,2015,3,2,68,2.7,65.3
+"Spécialités du monde",France,Paris,2015,3,21,2052.5,262.14,1790.3600000000001
+"Old World Delicatessen",USA,Anchorage,2015,3,16,848,144.38,703.62
+"Chop-suey Chinese",Switzerland,Bern,2015,3,32,1255.6,81.57000000000001,1174.03
+"Toms Spezialitäten",Germany,Münster,2015,3,52,910.4,124.44,785.96
+"Ernst Handel",Austria,Graz,2015,3,271,6221.5,2342.22,3879.28
+"Comércio Mineiro",Brazil,"Sao Paulo",2015,3,9,108,0.21,107.79
+"Bólido Comidas preparadas",Spain,Madrid,2015,3,40,280,16.16,263.84
+"France restauration",France,Nantes,2015,3,14,1733.0600000000002,121.82,1611.2400000000002
+"Split Rail Beer & Ale",USA,Lander,2015,3,10,439,12.96,426.04
+"Maison Dewey",Belgium,Bruxelles,2015,3,76,1500.7,131.28,1369.42
+"Hungry Owl All-Night Grocers",Ireland,Cork,2015,3,79,2248.2,274.53000000000003,1973.6699999999998
+"Eastern Connection",UK,London,2015,3,86,2772,556.4399999999999,2215.56
+"Rattlesnake Canyon Grocery",USA,Albuquerque,2015,3,100,3772,122.28,3649.72
+"Que Delícia",Brazil,"Rio de Janeiro",2015,3,59,1353.6,104.28,1249.32
+"Ernst Handel",Austria,Graz,2015,4,602,16584.5,2971.6000000000004,13612.9
+QUICK-Stop,Germany,Cunewalde,2015,4,368,10371.49,1602.5500000000002,8768.939999999999
+"The Big Cheese",USA,Portland,2015,4,2,69.6,4.27,65.33
+"Folk och fä HB",Sweden,Bräcke,2015,4,251,10196.25,866.2299999999999,9330.02
+Vaffeljernet,Denmark,Århus,2015,4,18,990,65.53,924.47
+"Pericles Comidas clásicas",Mexico,"Mexico City",2015,4,24,1196,92,1104
+LILA-Supermercado,Venezuela,Barquisimeto,2015,4,90,1980,221.73,1758.27
+"Wolski  Zajazd",Poland,Warszawa,2015,4,81,1277.6,89.96,1187.6399999999999
+"Ottilies Käseladen",Germany,Köln,2015,4,80,2005,332.34999999999997,1672.65
+"Rattlesnake Canyon Grocery",USA,Albuquerque,2015,4,85,1075,165.35999999999999,909.64
+"Save-a-lot Markets",USA,Boise,2015,4,647,20617.4,5023.740000000001,15593.66
+"The Cracker Box",USA,Butte,2015,4,24,326,44.730000000000004,281.27
+"Maison Dewey",Belgium,Bruxelles,2015,4,12,295.38,89.68,205.7
+"Wilman Kala",Finland,Helsinki,2015,4,12,586,1.5,584.5
+"Great Lakes Food Market",USA,Eugene,2015,4,45,1101.58,83.23,1018.3499999999999
+"Princesa Isabel Vinhos",Portugal,Lisboa,2015,4,54,2633.9,606.72,2027.18
+"Godos Cocina Típica",Spain,Sevilla,2015,4,43,762,180.52999999999997,581.47
+"Reggiani Caseifici",Italy,"Reggio Emilia",2015,4,52,1153,117.28,1035.72
+"Alfreds Futterkiste",Germany,Berlin,2015,4,60,960,2.42,957.58
+Frankenversand,Germany,München,2015,4,146,2974,728.8499999999999,2245.15
+"Romero y tomillo",Spain,Madrid,2015,4,36,361,131.96,229.04
+LINO-Delicateses,Venezuela,"I. de Margarita",2015,4,160,3360.2,283.6,3076.6
+"Santé Gourmet",Norway,Stavern,2015,4,33,622.35,9.24,613.11
+"Around the Horn",UK,London,2015,4,31,491.5,67.6,423.9
+"Lonesome Pine Restaurant",USA,Portland,2015,4,35,1575,34.95,1540.05
+"Rancho grande",Argentina,"Buenos Aires",2015,4,5,76,6.34,69.66
+"Hanari Carnes",Brazil,"Rio de Janeiro",2015,4,105,3067,147.06,2919.94
+"B's Beverages",UK,London,2015,4,34,1500,247.66,1252.34
+"Eastern Connection",UK,London,2015,4,293,6797.3099999999995,1227.56,5569.75
+"Wartian Herkku",Finland,Oulu,2015,4,30,300,58.34,241.66
+"Franchi S.p.A.",Italy,Torino,2015,4,32,1296,116.14000000000001,1179.86
+"Bottom-Dollar Markets",Canada,Tsawassen,2015,4,132,3004.8,270.32,2734.48
+"Königlich Essen",Germany,Brandenburg,2015,4,59,2160,59.18,2100.82
+"Chop-suey Chinese",Switzerland,Bern,2015,4,92,3173.8,192.12,2981.6800000000003
+"White Clover Markets",USA,Seattle,2015,4,90,8902.5,1818.5700000000002,7083.93
+"Richter Supermarkt",Switzerland,Genève,2015,4,106,3592,169.48,3422.52
+"Old World Delicatessen",USA,Anchorage,2015,4,33,554.4,120.96000000000001,433.43999999999994
+"Suprêmes délices",Belgium,Charleroi,2015,4,147,2505.5,89.45,2416.05
+"Drachenblut Delikatessen",Germany,Aachen,2015,4,37,1692,298.94,1393.06
+"Comércio Mineiro",Brazil,"Sao Paulo",2015,4,19,405.75,59.98,345.77
+"Spécialités du monde",France,Paris,2015,4,10,210,8.8,201.2
+"Die Wandernde Kuh",Germany,Stuttgart,2015,4,53,1564,214.92000000000002,1349.08
+"Gourmet Lanchonetes",Brazil,Campinas,2015,4,14,342,16.68,325.32
+"La maison d'Asie",France,Toulouse,2015,4,10,45,2.79,42.21
+"Piccolo und mehr",Austria,Salzburg,2015,4,80,3658.75,159.14999999999998,3499.6
+"Cactus Comidas para llevar",Argentina,"Buenos Aires",2015,4,30,305,0.66,304.34
+HILARION-Abastos,Venezuela,"San Cristóbal",2015,4,70,1727.5,483.68,1243.82
+North/South,UK,London,2015,4,3,45,4.13,40.87
+"Blauer See Delikatessen",Germany,Mannheim,2015,4,28,858,93.42,764.58
+"Ricardo Adocicados",Brazil,"Rio de Janeiro",2015,4,77,1838,257.4,1580.6
+"Hungry Owl All-Night Grocers",Ireland,Cork,2015,4,100,1445.5,245.19,1200.31
+"Save-a-lot Markets",USA,Boise,2015,5,173,4722.3,150.45,4571.85
+LILA-Supermercado,Venezuela,Barquisimeto,2015,5,49,762.56,27.68,734.88
+"White Clover Markets",USA,Seattle,2015,5,80,928.75,134.16,794.59
+"Drachenblut Delikatessen",Germany,Aachen,2015,5,9,86.85000000000001,7.98,78.87
+"Queen Cozinha",Brazil,"Sao Paulo",2015,5,72,2384.8,245.25,2139.55
+"Tortuga Restaurante",Mexico,"Mexico City",2015,5,20,360,15.67,344.33
+"Lehmanns Marktstand",Germany,"Frankfurt a.M.",2015,5,110,1873.5,544,1329.5
+"Ernst Handel",Austria,Graz,2015,5,200,5218,1034.56,4183.4400000000005
+"Pericles Comidas clásicas",Mexico,"Mexico City",2015,5,30,300,49.9,250.1
+"Simons bistro",Denmark,Kobenhavn,2015,5,14,244.29999999999998,18.44,225.85999999999999
+"Richter Supermarkt",Switzerland,Genève,2015,5,42,586,18.57,567.43
+"Bon app'",France,Marseille,2015,5,50,1057,114.84,942.16
+"Rattlesnake Canyon Grocery",USA,Albuquerque,2015,5,72,1374.6,213.25,1161.35

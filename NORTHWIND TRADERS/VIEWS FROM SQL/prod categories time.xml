@@ -1,0 +1,1678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">categoryName</Data></Cell>
+			<Cell><Data ss:Type="String">Year_</Data></Cell>
+			<Cell><Data ss:Type="String">Month_</Data></Cell>
+			<Cell><Data ss:Type="String">TotalQuantity</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenue</Data></Cell>
+			<Cell><Data ss:Type="String">TotalFreightCosts</Data></Cell>
+			<Cell><Data ss:Type="String">TotalNetRevenue</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">304</Data></Cell>
+			<Cell><Data ss:Type="Number">7385.599999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">824.0899999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">6561.509999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+			<Cell><Data ss:Type="Number">1273.6</Data></Cell>
+			<Cell><Data ss:Type="Number">218.44</Data></Cell>
+			<Cell><Data ss:Type="Number">1055.1599999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">156</Data></Cell>
+			<Cell><Data ss:Type="Number">4163.4</Data></Cell>
+			<Cell><Data ss:Type="Number">306.38</Data></Cell>
+			<Cell><Data ss:Type="Number">3857.0199999999995</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">187</Data></Cell>
+			<Cell><Data ss:Type="Number">2770.5</Data></Cell>
+			<Cell><Data ss:Type="Number">630.8100000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">2139.69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">139</Data></Cell>
+			<Cell><Data ss:Type="Number">2177.8</Data></Cell>
+			<Cell><Data ss:Type="Number">391.85</Data></Cell>
+			<Cell><Data ss:Type="Number">1785.9500000000003</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">245</Data></Cell>
+			<Cell><Data ss:Type="Number">6261</Data></Cell>
+			<Cell><Data ss:Type="Number">547.1600000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">5713.84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">272</Data></Cell>
+			<Cell><Data ss:Type="Number">3438</Data></Cell>
+			<Cell><Data ss:Type="Number">923.63</Data></Cell>
+			<Cell><Data ss:Type="Number">2514.37</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+			<Cell><Data ss:Type="Number">2722.2</Data></Cell>
+			<Cell><Data ss:Type="Number">158.52</Data></Cell>
+			<Cell><Data ss:Type="Number">2563.68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">257</Data></Cell>
+			<Cell><Data ss:Type="Number">4205.4</Data></Cell>
+			<Cell><Data ss:Type="Number">538.9099999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">3666.49</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">347</Data></Cell>
+			<Cell><Data ss:Type="Number">5036.399999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">1142.9099999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">3893.489999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">250</Data></Cell>
+			<Cell><Data ss:Type="Number">4918.400000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">877.8199999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">4040.580000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">170</Data></Cell>
+			<Cell><Data ss:Type="Number">5224.799999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">718.6100000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">4506.189999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">812.8</Data></Cell>
+			<Cell><Data ss:Type="Number">132.17</Data></Cell>
+			<Cell><Data ss:Type="Number">680.63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">154</Data></Cell>
+			<Cell><Data ss:Type="Number">2333.8</Data></Cell>
+			<Cell><Data ss:Type="Number">556.4999999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">1777.3000000000002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">111</Data></Cell>
+			<Cell><Data ss:Type="Number">3807.2</Data></Cell>
+			<Cell><Data ss:Type="Number">346.05</Data></Cell>
+			<Cell><Data ss:Type="Number">3461.1499999999996</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">270.6</Data></Cell>
+			<Cell><Data ss:Type="Number">35.46</Data></Cell>
+			<Cell><Data ss:Type="Number">235.14000000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">819.2</Data></Cell>
+			<Cell><Data ss:Type="Number">118.22</Data></Cell>
+			<Cell><Data ss:Type="Number">700.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">140</Data></Cell>
+			<Cell><Data ss:Type="Number">4290</Data></Cell>
+			<Cell><Data ss:Type="Number">449.53999999999996</Data></Cell>
+			<Cell><Data ss:Type="Number">3840.46</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">248</Data></Cell>
+			<Cell><Data ss:Type="Number">6450.5</Data></Cell>
+			<Cell><Data ss:Type="Number">647.87</Data></Cell>
+			<Cell><Data ss:Type="Number">5802.63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">285</Data></Cell>
+			<Cell><Data ss:Type="Number">5131.6</Data></Cell>
+			<Cell><Data ss:Type="Number">693.25</Data></Cell>
+			<Cell><Data ss:Type="Number">4438.35</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">177</Data></Cell>
+			<Cell><Data ss:Type="Number">3377.4</Data></Cell>
+			<Cell><Data ss:Type="Number">812.5799999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">2564.82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">110</Data></Cell>
+			<Cell><Data ss:Type="Number">1864</Data></Cell>
+			<Cell><Data ss:Type="Number">220.11</Data></Cell>
+			<Cell><Data ss:Type="Number">1643.8899999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+			<Cell><Data ss:Type="Number">4538.5</Data></Cell>
+			<Cell><Data ss:Type="Number">319.27</Data></Cell>
+			<Cell><Data ss:Type="Number">4219.23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">1164.8</Data></Cell>
+			<Cell><Data ss:Type="Number">46.53</Data></Cell>
+			<Cell><Data ss:Type="Number">1118.27</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">310</Data></Cell>
+			<Cell><Data ss:Type="Number">6604.999999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">1343.27</Data></Cell>
+			<Cell><Data ss:Type="Number">5261.73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">301</Data></Cell>
+			<Cell><Data ss:Type="Number">8793.199999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">998.3800000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">7794.819999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">153</Data></Cell>
+			<Cell><Data ss:Type="Number">3914.1</Data></Cell>
+			<Cell><Data ss:Type="Number">229.39</Data></Cell>
+			<Cell><Data ss:Type="Number">3684.71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+			<Cell><Data ss:Type="Number">2898.2</Data></Cell>
+			<Cell><Data ss:Type="Number">172.06</Data></Cell>
+			<Cell><Data ss:Type="Number">2726.14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">367</Data></Cell>
+			<Cell><Data ss:Type="Number">8117.6</Data></Cell>
+			<Cell><Data ss:Type="Number">843.1600000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">7274.4400000000005</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">156</Data></Cell>
+			<Cell><Data ss:Type="Number">2501.2</Data></Cell>
+			<Cell><Data ss:Type="Number">550.02</Data></Cell>
+			<Cell><Data ss:Type="Number">1951.1799999999998</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">183</Data></Cell>
+			<Cell><Data ss:Type="Number">4577.2</Data></Cell>
+			<Cell><Data ss:Type="Number">480.13000000000005</Data></Cell>
+			<Cell><Data ss:Type="Number">4097.07</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">187</Data></Cell>
+			<Cell><Data ss:Type="Number">3797.1000000000004</Data></Cell>
+			<Cell><Data ss:Type="Number">806.88</Data></Cell>
+			<Cell><Data ss:Type="Number">2990.2200000000003</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">294</Data></Cell>
+			<Cell><Data ss:Type="Number">6918.3</Data></Cell>
+			<Cell><Data ss:Type="Number">667.68</Data></Cell>
+			<Cell><Data ss:Type="Number">6250.62</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">267</Data></Cell>
+			<Cell><Data ss:Type="Number">3227.8</Data></Cell>
+			<Cell><Data ss:Type="Number">969.3500000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">2258.45</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">139</Data></Cell>
+			<Cell><Data ss:Type="Number">2599.8</Data></Cell>
+			<Cell><Data ss:Type="Number">637.77</Data></Cell>
+			<Cell><Data ss:Type="Number">1962.0300000000002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">201</Data></Cell>
+			<Cell><Data ss:Type="Number">5887.200000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">615.51</Data></Cell>
+			<Cell><Data ss:Type="Number">5271.6900000000005</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">332</Data></Cell>
+			<Cell><Data ss:Type="Number">19712</Data></Cell>
+			<Cell><Data ss:Type="Number">1055.77</Data></Cell>
+			<Cell><Data ss:Type="Number">18656.23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+			<Cell><Data ss:Type="Number">1206.9</Data></Cell>
+			<Cell><Data ss:Type="Number">219.95</Data></Cell>
+			<Cell><Data ss:Type="Number">986.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">372</Data></Cell>
+			<Cell><Data ss:Type="Number">7738.8</Data></Cell>
+			<Cell><Data ss:Type="Number">1489.63</Data></Cell>
+			<Cell><Data ss:Type="Number">6249.17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+			<Cell><Data ss:Type="Number">2413.2</Data></Cell>
+			<Cell><Data ss:Type="Number">329.69</Data></Cell>
+			<Cell><Data ss:Type="Number">2083.5099999999998</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">309</Data></Cell>
+			<Cell><Data ss:Type="Number">9423</Data></Cell>
+			<Cell><Data ss:Type="Number">701.45</Data></Cell>
+			<Cell><Data ss:Type="Number">8721.55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">128</Data></Cell>
+			<Cell><Data ss:Type="Number">2353.2</Data></Cell>
+			<Cell><Data ss:Type="Number">401.29999999999995</Data></Cell>
+			<Cell><Data ss:Type="Number">1951.8999999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">305</Data></Cell>
+			<Cell><Data ss:Type="Number">11768</Data></Cell>
+			<Cell><Data ss:Type="Number">1487.6799999999998</Data></Cell>
+			<Cell><Data ss:Type="Number">10280.32</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">195</Data></Cell>
+			<Cell><Data ss:Type="Number">3681.8</Data></Cell>
+			<Cell><Data ss:Type="Number">457.67</Data></Cell>
+			<Cell><Data ss:Type="Number">3224.13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">288</Data></Cell>
+			<Cell><Data ss:Type="Number">3424.4</Data></Cell>
+			<Cell><Data ss:Type="Number">766.44</Data></Cell>
+			<Cell><Data ss:Type="Number">2657.96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">240</Data></Cell>
+			<Cell><Data ss:Type="Number">6550.4</Data></Cell>
+			<Cell><Data ss:Type="Number">1543.1199999999997</Data></Cell>
+			<Cell><Data ss:Type="Number">5007.28</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">653</Data></Cell>
+			<Cell><Data ss:Type="Number">12165.4</Data></Cell>
+			<Cell><Data ss:Type="Number">3436.36</Data></Cell>
+			<Cell><Data ss:Type="Number">8729.039999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">82</Data></Cell>
+			<Cell><Data ss:Type="Number">1587.1999999999998</Data></Cell>
+			<Cell><Data ss:Type="Number">212.19</Data></Cell>
+			<Cell><Data ss:Type="Number">1375.0099999999998</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">219</Data></Cell>
+			<Cell><Data ss:Type="Number">7775.8</Data></Cell>
+			<Cell><Data ss:Type="Number">776.6800000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">6999.12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">330</Data></Cell>
+			<Cell><Data ss:Type="Number">24224.4</Data></Cell>
+			<Cell><Data ss:Type="Number">1264.4</Data></Cell>
+			<Cell><Data ss:Type="Number">22960</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">623</Data></Cell>
+			<Cell><Data ss:Type="Number">9582.3</Data></Cell>
+			<Cell><Data ss:Type="Number">2056.29</Data></Cell>
+			<Cell><Data ss:Type="Number">7526.009999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">154</Data></Cell>
+			<Cell><Data ss:Type="Number">2074.3</Data></Cell>
+			<Cell><Data ss:Type="Number">477.29</Data></Cell>
+			<Cell><Data ss:Type="Number">1597.0100000000002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">232</Data></Cell>
+			<Cell><Data ss:Type="Number">4570.2</Data></Cell>
+			<Cell><Data ss:Type="Number">755.24</Data></Cell>
+			<Cell><Data ss:Type="Number">3814.96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">271</Data></Cell>
+			<Cell><Data ss:Type="Number">5698.8</Data></Cell>
+			<Cell><Data ss:Type="Number">382.56000000000006</Data></Cell>
+			<Cell><Data ss:Type="Number">5316.24</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">448</Data></Cell>
+			<Cell><Data ss:Type="Number">9872</Data></Cell>
+			<Cell><Data ss:Type="Number">1119.56</Data></Cell>
+			<Cell><Data ss:Type="Number">8752.44</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">124</Data></Cell>
+			<Cell><Data ss:Type="Number">2895</Data></Cell>
+			<Cell><Data ss:Type="Number">190.48000000000002</Data></Cell>
+			<Cell><Data ss:Type="Number">2704.52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">216</Data></Cell>
+			<Cell><Data ss:Type="Number">5043.4</Data></Cell>
+			<Cell><Data ss:Type="Number">812.8</Data></Cell>
+			<Cell><Data ss:Type="Number">4230.599999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">248</Data></Cell>
+			<Cell><Data ss:Type="Number">5616</Data></Cell>
+			<Cell><Data ss:Type="Number">543.34</Data></Cell>
+			<Cell><Data ss:Type="Number">5072.66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">220</Data></Cell>
+			<Cell><Data ss:Type="Number">3090.4000000000005</Data></Cell>
+			<Cell><Data ss:Type="Number">675.1800000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">2415.2200000000003</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">147</Data></Cell>
+			<Cell><Data ss:Type="Number">2283.8</Data></Cell>
+			<Cell><Data ss:Type="Number">435.95</Data></Cell>
+			<Cell><Data ss:Type="Number">1847.8500000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">380</Data></Cell>
+			<Cell><Data ss:Type="Number">8442.9</Data></Cell>
+			<Cell><Data ss:Type="Number">692.62</Data></Cell>
+			<Cell><Data ss:Type="Number">7750.28</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">425</Data></Cell>
+			<Cell><Data ss:Type="Number">7413.5</Data></Cell>
+			<Cell><Data ss:Type="Number">707.1</Data></Cell>
+			<Cell><Data ss:Type="Number">6706.4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">103</Data></Cell>
+			<Cell><Data ss:Type="Number">2698.8</Data></Cell>
+			<Cell><Data ss:Type="Number">330.43</Data></Cell>
+			<Cell><Data ss:Type="Number">2368.3700000000003</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">393</Data></Cell>
+			<Cell><Data ss:Type="Number">6618.4</Data></Cell>
+			<Cell><Data ss:Type="Number">902.02</Data></Cell>
+			<Cell><Data ss:Type="Number">5716.379999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">175</Data></Cell>
+			<Cell><Data ss:Type="Number">3579.1</Data></Cell>
+			<Cell><Data ss:Type="Number">524.4499999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">3054.65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">174</Data></Cell>
+			<Cell><Data ss:Type="Number">3350</Data></Cell>
+			<Cell><Data ss:Type="Number">993.61</Data></Cell>
+			<Cell><Data ss:Type="Number">2356.39</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">265</Data></Cell>
+			<Cell><Data ss:Type="Number">3324.8999999999996</Data></Cell>
+			<Cell><Data ss:Type="Number">668.13</Data></Cell>
+			<Cell><Data ss:Type="Number">2656.7699999999995</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">150</Data></Cell>
+			<Cell><Data ss:Type="Number">1905.8999999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">331.34999999999997</Data></Cell>
+			<Cell><Data ss:Type="Number">1574.55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">471</Data></Cell>
+			<Cell><Data ss:Type="Number">11027.2</Data></Cell>
+			<Cell><Data ss:Type="Number">1593.2500000000002</Data></Cell>
+			<Cell><Data ss:Type="Number">9433.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">311</Data></Cell>
+			<Cell><Data ss:Type="Number">9844.4</Data></Cell>
+			<Cell><Data ss:Type="Number">1227.76</Data></Cell>
+			<Cell><Data ss:Type="Number">8616.64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">102</Data></Cell>
+			<Cell><Data ss:Type="Number">3271.6</Data></Cell>
+			<Cell><Data ss:Type="Number">993.9200000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">2277.68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">122</Data></Cell>
+			<Cell><Data ss:Type="Number">3676.7999999999997</Data></Cell>
+			<Cell><Data ss:Type="Number">284.71</Data></Cell>
+			<Cell><Data ss:Type="Number">3392.0899999999997</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">394</Data></Cell>
+			<Cell><Data ss:Type="Number">11714.65</Data></Cell>
+			<Cell><Data ss:Type="Number">1625.1000000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">10089.55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">240</Data></Cell>
+			<Cell><Data ss:Type="Number">6555.6</Data></Cell>
+			<Cell><Data ss:Type="Number">1176.05</Data></Cell>
+			<Cell><Data ss:Type="Number">5379.55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">259</Data></Cell>
+			<Cell><Data ss:Type="Number">5903</Data></Cell>
+			<Cell><Data ss:Type="Number">2041.05</Data></Cell>
+			<Cell><Data ss:Type="Number">3861.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">231</Data></Cell>
+			<Cell><Data ss:Type="Number">6647</Data></Cell>
+			<Cell><Data ss:Type="Number">735.57</Data></Cell>
+			<Cell><Data ss:Type="Number">5911.43</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">241</Data></Cell>
+			<Cell><Data ss:Type="Number">4518.3</Data></Cell>
+			<Cell><Data ss:Type="Number">437.43999999999994</Data></Cell>
+			<Cell><Data ss:Type="Number">4080.86</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">268</Data></Cell>
+			<Cell><Data ss:Type="Number">7377.5</Data></Cell>
+			<Cell><Data ss:Type="Number">1937.23</Data></Cell>
+			<Cell><Data ss:Type="Number">5440.27</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">186</Data></Cell>
+			<Cell><Data ss:Type="Number">6137.1</Data></Cell>
+			<Cell><Data ss:Type="Number">1302.18</Data></Cell>
+			<Cell><Data ss:Type="Number">4834.92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+			<Cell><Data ss:Type="Number">6846.240000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">722.77</Data></Cell>
+			<Cell><Data ss:Type="Number">6123.470000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">136</Data></Cell>
+			<Cell><Data ss:Type="Number">3548.05</Data></Cell>
+			<Cell><Data ss:Type="Number">771.5400000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">2776.51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">291</Data></Cell>
+			<Cell><Data ss:Type="Number">7997.5</Data></Cell>
+			<Cell><Data ss:Type="Number">2852.0599999999995</Data></Cell>
+			<Cell><Data ss:Type="Number">5145.4400000000005</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">401</Data></Cell>
+			<Cell><Data ss:Type="Number">6371.150000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">1622.6299999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">4748.52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">322</Data></Cell>
+			<Cell><Data ss:Type="Number">15654</Data></Cell>
+			<Cell><Data ss:Type="Number">2658.3499999999995</Data></Cell>
+			<Cell><Data ss:Type="Number">12995.650000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">149</Data></Cell>
+			<Cell><Data ss:Type="Number">2551.5</Data></Cell>
+			<Cell><Data ss:Type="Number">392.86</Data></Cell>
+			<Cell><Data ss:Type="Number">2158.64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">300</Data></Cell>
+			<Cell><Data ss:Type="Number">5728.8</Data></Cell>
+			<Cell><Data ss:Type="Number">1918.15</Data></Cell>
+			<Cell><Data ss:Type="Number">3810.65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">494</Data></Cell>
+			<Cell><Data ss:Type="Number">11491.5</Data></Cell>
+			<Cell><Data ss:Type="Number">1586.19</Data></Cell>
+			<Cell><Data ss:Type="Number">9905.31</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+			<Cell><Data ss:Type="Number">3481.2</Data></Cell>
+			<Cell><Data ss:Type="Number">469.72</Data></Cell>
+			<Cell><Data ss:Type="Number">3011.4799999999996</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">149</Data></Cell>
+			<Cell><Data ss:Type="Number">6231</Data></Cell>
+			<Cell><Data ss:Type="Number">956.08</Data></Cell>
+			<Cell><Data ss:Type="Number">5274.92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">107</Data></Cell>
+			<Cell><Data ss:Type="Number">2494.4</Data></Cell>
+			<Cell><Data ss:Type="Number">539.09</Data></Cell>
+			<Cell><Data ss:Type="Number">1955.31</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">313</Data></Cell>
+			<Cell><Data ss:Type="Number">3602</Data></Cell>
+			<Cell><Data ss:Type="Number">975.7800000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">2626.22</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">292</Data></Cell>
+			<Cell><Data ss:Type="Number">6882.5</Data></Cell>
+			<Cell><Data ss:Type="Number">799.72</Data></Cell>
+			<Cell><Data ss:Type="Number">6082.78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">405</Data></Cell>
+			<Cell><Data ss:Type="Number">9507.7</Data></Cell>
+			<Cell><Data ss:Type="Number">951.78</Data></Cell>
+			<Cell><Data ss:Type="Number">8555.92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">130</Data></Cell>
+			<Cell><Data ss:Type="Number">5006.3</Data></Cell>
+			<Cell><Data ss:Type="Number">285.48</Data></Cell>
+			<Cell><Data ss:Type="Number">4720.82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">144</Data></Cell>
+			<Cell><Data ss:Type="Number">3477.25</Data></Cell>
+			<Cell><Data ss:Type="Number">502.96000000000004</Data></Cell>
+			<Cell><Data ss:Type="Number">2974.29</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+			<Cell><Data ss:Type="Number">1886.85</Data></Cell>
+			<Cell><Data ss:Type="Number">503.14000000000004</Data></Cell>
+			<Cell><Data ss:Type="Number">1383.7099999999998</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">210</Data></Cell>
+			<Cell><Data ss:Type="Number">6968.03</Data></Cell>
+			<Cell><Data ss:Type="Number">1419.2500000000002</Data></Cell>
+			<Cell><Data ss:Type="Number">5548.78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">243</Data></Cell>
+			<Cell><Data ss:Type="Number">4780</Data></Cell>
+			<Cell><Data ss:Type="Number">444.94000000000005</Data></Cell>
+			<Cell><Data ss:Type="Number">4335.0599999999995</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">327</Data></Cell>
+			<Cell><Data ss:Type="Number">8343.5</Data></Cell>
+			<Cell><Data ss:Type="Number">1391.9399999999998</Data></Cell>
+			<Cell><Data ss:Type="Number">6951.56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">300</Data></Cell>
+			<Cell><Data ss:Type="Number">6798.700000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">425.87</Data></Cell>
+			<Cell><Data ss:Type="Number">6372.830000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">366</Data></Cell>
+			<Cell><Data ss:Type="Number">8452.3</Data></Cell>
+			<Cell><Data ss:Type="Number">1628.4799999999998</Data></Cell>
+			<Cell><Data ss:Type="Number">6823.82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="Number">1650</Data></Cell>
+			<Cell><Data ss:Type="Number">256.16</Data></Cell>
+			<Cell><Data ss:Type="Number">1393.84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">179</Data></Cell>
+			<Cell><Data ss:Type="Number">4902.3</Data></Cell>
+			<Cell><Data ss:Type="Number">381.44000000000005</Data></Cell>
+			<Cell><Data ss:Type="Number">4520.860000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">374</Data></Cell>
+			<Cell><Data ss:Type="Number">13570.1</Data></Cell>
+			<Cell><Data ss:Type="Number">2673.2900000000004</Data></Cell>
+			<Cell><Data ss:Type="Number">10896.81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">206</Data></Cell>
+			<Cell><Data ss:Type="Number">4501.8</Data></Cell>
+			<Cell><Data ss:Type="Number">688.21</Data></Cell>
+			<Cell><Data ss:Type="Number">3813.59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">204</Data></Cell>
+			<Cell><Data ss:Type="Number">5529.25</Data></Cell>
+			<Cell><Data ss:Type="Number">662.76</Data></Cell>
+			<Cell><Data ss:Type="Number">4866.49</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">335</Data></Cell>
+			<Cell><Data ss:Type="Number">8025.3</Data></Cell>
+			<Cell><Data ss:Type="Number">1866.7700000000002</Data></Cell>
+			<Cell><Data ss:Type="Number">6158.53</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">334</Data></Cell>
+			<Cell><Data ss:Type="Number">6154</Data></Cell>
+			<Cell><Data ss:Type="Number">1297.22</Data></Cell>
+			<Cell><Data ss:Type="Number">4856.78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">256</Data></Cell>
+			<Cell><Data ss:Type="Number">7375.5</Data></Cell>
+			<Cell><Data ss:Type="Number">1396.1</Data></Cell>
+			<Cell><Data ss:Type="Number">5979.4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">119</Data></Cell>
+			<Cell><Data ss:Type="Number">4455</Data></Cell>
+			<Cell><Data ss:Type="Number">1246.3</Data></Cell>
+			<Cell><Data ss:Type="Number">3208.7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">105</Data></Cell>
+			<Cell><Data ss:Type="Number">4943.64</Data></Cell>
+			<Cell><Data ss:Type="Number">704.9200000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">4238.72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">302</Data></Cell>
+			<Cell><Data ss:Type="Number">8997.2</Data></Cell>
+			<Cell><Data ss:Type="Number">1824.2800000000007</Data></Cell>
+			<Cell><Data ss:Type="Number">7172.92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">371</Data></Cell>
+			<Cell><Data ss:Type="Number">7192.5</Data></Cell>
+			<Cell><Data ss:Type="Number">1544.6399999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">5647.860000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">262</Data></Cell>
+			<Cell><Data ss:Type="Number">5755.75</Data></Cell>
+			<Cell><Data ss:Type="Number">876.35</Data></Cell>
+			<Cell><Data ss:Type="Number">4879.4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">630</Data></Cell>
+			<Cell><Data ss:Type="Number">9489.33</Data></Cell>
+			<Cell><Data ss:Type="Number">2682.61</Data></Cell>
+			<Cell><Data ss:Type="Number">6806.719999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">435</Data></Cell>
+			<Cell><Data ss:Type="Number">12054</Data></Cell>
+			<Cell><Data ss:Type="Number">2259.6600000000003</Data></Cell>
+			<Cell><Data ss:Type="Number">9794.34</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">222</Data></Cell>
+			<Cell><Data ss:Type="Number">3748.8999999999996</Data></Cell>
+			<Cell><Data ss:Type="Number">1131.42</Data></Cell>
+			<Cell><Data ss:Type="Number">2617.4799999999996</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">174</Data></Cell>
+			<Cell><Data ss:Type="Number">6198.75</Data></Cell>
+			<Cell><Data ss:Type="Number">766.53</Data></Cell>
+			<Cell><Data ss:Type="Number">5432.22</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">176</Data></Cell>
+			<Cell><Data ss:Type="Number">12406.539999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">1445.0900000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">10961.449999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+			<Cell><Data ss:Type="Number">2887.25</Data></Cell>
+			<Cell><Data ss:Type="Number">228.46</Data></Cell>
+			<Cell><Data ss:Type="Number">2658.79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">431</Data></Cell>
+			<Cell><Data ss:Type="Number">7322.27</Data></Cell>
+			<Cell><Data ss:Type="Number">1725.35</Data></Cell>
+			<Cell><Data ss:Type="Number">5596.92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">185</Data></Cell>
+			<Cell><Data ss:Type="Number">7291</Data></Cell>
+			<Cell><Data ss:Type="Number">930.82</Data></Cell>
+			<Cell><Data ss:Type="Number">6360.18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">491</Data></Cell>
+			<Cell><Data ss:Type="Number">9043</Data></Cell>
+			<Cell><Data ss:Type="Number">3583.2799999999997</Data></Cell>
+			<Cell><Data ss:Type="Number">5459.72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">112</Data></Cell>
+			<Cell><Data ss:Type="Number">3392</Data></Cell>
+			<Cell><Data ss:Type="Number">162.79000000000002</Data></Cell>
+			<Cell><Data ss:Type="Number">3229.21</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">270</Data></Cell>
+			<Cell><Data ss:Type="Number">6780.450000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">1547.78</Data></Cell>
+			<Cell><Data ss:Type="Number">5232.670000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">378</Data></Cell>
+			<Cell><Data ss:Type="Number">14703.23</Data></Cell>
+			<Cell><Data ss:Type="Number">2046.3100000000002</Data></Cell>
+			<Cell><Data ss:Type="Number">12656.92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">390</Data></Cell>
+			<Cell><Data ss:Type="Number">8051.549999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">1835.45</Data></Cell>
+			<Cell><Data ss:Type="Number">6216.099999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">422</Data></Cell>
+			<Cell><Data ss:Type="Number">13745</Data></Cell>
+			<Cell><Data ss:Type="Number">2215.82</Data></Cell>
+			<Cell><Data ss:Type="Number">11529.18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">172</Data></Cell>
+			<Cell><Data ss:Type="Number">3854.7999999999997</Data></Cell>
+			<Cell><Data ss:Type="Number">538.93</Data></Cell>
+			<Cell><Data ss:Type="Number">3315.87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">344</Data></Cell>
+			<Cell><Data ss:Type="Number">13597.1</Data></Cell>
+			<Cell><Data ss:Type="Number">1197.8200000000002</Data></Cell>
+			<Cell><Data ss:Type="Number">12399.28</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">1068</Data></Cell>
+			<Cell><Data ss:Type="Number">148.23000000000002</Data></Cell>
+			<Cell><Data ss:Type="Number">919.77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">310</Data></Cell>
+			<Cell><Data ss:Type="Number">6266</Data></Cell>
+			<Cell><Data ss:Type="Number">1030.8100000000002</Data></Cell>
+			<Cell><Data ss:Type="Number">5235.19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">414</Data></Cell>
+			<Cell><Data ss:Type="Number">8554.05</Data></Cell>
+			<Cell><Data ss:Type="Number">1201.95</Data></Cell>
+			<Cell><Data ss:Type="Number">7352.099999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">248</Data></Cell>
+			<Cell><Data ss:Type="Number">4034</Data></Cell>
+			<Cell><Data ss:Type="Number">505.88</Data></Cell>
+			<Cell><Data ss:Type="Number">3528.12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">255</Data></Cell>
+			<Cell><Data ss:Type="Number">5271.16</Data></Cell>
+			<Cell><Data ss:Type="Number">931.09</Data></Cell>
+			<Cell><Data ss:Type="Number">4340.07</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+			<Cell><Data ss:Type="Number">3268.25</Data></Cell>
+			<Cell><Data ss:Type="Number">485.75</Data></Cell>
+			<Cell><Data ss:Type="Number">2782.5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">471</Data></Cell>
+			<Cell><Data ss:Type="Number">9191.98</Data></Cell>
+			<Cell><Data ss:Type="Number">1752.55</Data></Cell>
+			<Cell><Data ss:Type="Number">7439.429999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">498</Data></Cell>
+			<Cell><Data ss:Type="Number">11675.25</Data></Cell>
+			<Cell><Data ss:Type="Number">2254.22</Data></Cell>
+			<Cell><Data ss:Type="Number">9421.03</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">315</Data></Cell>
+			<Cell><Data ss:Type="Number">13047.15</Data></Cell>
+			<Cell><Data ss:Type="Number">1404.8399999999997</Data></Cell>
+			<Cell><Data ss:Type="Number">11642.31</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">202</Data></Cell>
+			<Cell><Data ss:Type="Number">5810.75</Data></Cell>
+			<Cell><Data ss:Type="Number">1066.0299999999997</Data></Cell>
+			<Cell><Data ss:Type="Number">4744.72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">257</Data></Cell>
+			<Cell><Data ss:Type="Number">6252.6</Data></Cell>
+			<Cell><Data ss:Type="Number">603.68</Data></Cell>
+			<Cell><Data ss:Type="Number">5648.92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">406</Data></Cell>
+			<Cell><Data ss:Type="Number">10590.5</Data></Cell>
+			<Cell><Data ss:Type="Number">1524.7099999999998</Data></Cell>
+			<Cell><Data ss:Type="Number">9065.79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">274</Data></Cell>
+			<Cell><Data ss:Type="Number">6201.6</Data></Cell>
+			<Cell><Data ss:Type="Number">1064.78</Data></Cell>
+			<Cell><Data ss:Type="Number">5136.820000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">259</Data></Cell>
+			<Cell><Data ss:Type="Number">14706.43</Data></Cell>
+			<Cell><Data ss:Type="Number">1288.47</Data></Cell>
+			<Cell><Data ss:Type="Number">13417.960000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">544</Data></Cell>
+			<Cell><Data ss:Type="Number">12573.75</Data></Cell>
+			<Cell><Data ss:Type="Number">3176.8399999999997</Data></Cell>
+			<Cell><Data ss:Type="Number">9396.91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">622</Data></Cell>
+			<Cell><Data ss:Type="Number">28558</Data></Cell>
+			<Cell><Data ss:Type="Number">3889.1000000000013</Data></Cell>
+			<Cell><Data ss:Type="Number">24668.899999999998</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">735</Data></Cell>
+			<Cell><Data ss:Type="Number">15644.6</Data></Cell>
+			<Cell><Data ss:Type="Number">2940.2</Data></Cell>
+			<Cell><Data ss:Type="Number">12704.400000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">483</Data></Cell>
+			<Cell><Data ss:Type="Number">12387.749999999998</Data></Cell>
+			<Cell><Data ss:Type="Number">3257.35</Data></Cell>
+			<Cell><Data ss:Type="Number">9130.399999999998</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">622</Data></Cell>
+			<Cell><Data ss:Type="Number">19448</Data></Cell>
+			<Cell><Data ss:Type="Number">3262.3</Data></Cell>
+			<Cell><Data ss:Type="Number">16185.7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">269</Data></Cell>
+			<Cell><Data ss:Type="Number">5000.45</Data></Cell>
+			<Cell><Data ss:Type="Number">1583.4099999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">3417.04</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="Number">1639</Data></Cell>
+			<Cell><Data ss:Type="Number">245.65999999999997</Data></Cell>
+			<Cell><Data ss:Type="Number">1393.3400000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">133</Data></Cell>
+			<Cell><Data ss:Type="Number">5603.17</Data></Cell>
+			<Cell><Data ss:Type="Number">672.69</Data></Cell>
+			<Cell><Data ss:Type="Number">4930.48</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">834</Data></Cell>
+			<Cell><Data ss:Type="Number">35869.5</Data></Cell>
+			<Cell><Data ss:Type="Number">2398.2000000000003</Data></Cell>
+			<Cell><Data ss:Type="Number">33471.3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">564</Data></Cell>
+			<Cell><Data ss:Type="Number">11591.689999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">1746.4399999999998</Data></Cell>
+			<Cell><Data ss:Type="Number">9845.249999999998</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">302</Data></Cell>
+			<Cell><Data ss:Type="Number">23739.86</Data></Cell>
+			<Cell><Data ss:Type="Number">1696.9699999999998</Data></Cell>
+			<Cell><Data ss:Type="Number">22042.89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">432</Data></Cell>
+			<Cell><Data ss:Type="Number">10026.15</Data></Cell>
+			<Cell><Data ss:Type="Number">1600.1299999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">8426.02</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">446</Data></Cell>
+			<Cell><Data ss:Type="Number">11277</Data></Cell>
+			<Cell><Data ss:Type="Number">1592.55</Data></Cell>
+			<Cell><Data ss:Type="Number">9684.45</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">211</Data></Cell>
+			<Cell><Data ss:Type="Number">4127.75</Data></Cell>
+			<Cell><Data ss:Type="Number">710.2800000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">3417.47</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">1202.8</Data></Cell>
+			<Cell><Data ss:Type="Number">98.87</Data></Cell>
+			<Cell><Data ss:Type="Number">1103.9299999999998</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">289</Data></Cell>
+			<Cell><Data ss:Type="Number">6727.2</Data></Cell>
+			<Cell><Data ss:Type="Number">697.6399999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">6029.5599999999995</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">669</Data></Cell>
+			<Cell><Data ss:Type="Number">9902.089999999998</Data></Cell>
+			<Cell><Data ss:Type="Number">2099.870000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">7802.2199999999975</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">581</Data></Cell>
+			<Cell><Data ss:Type="Number">14990.8</Data></Cell>
+			<Cell><Data ss:Type="Number">3039.590000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">11951.21</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">925</Data></Cell>
+			<Cell><Data ss:Type="Number">28729.25</Data></Cell>
+			<Cell><Data ss:Type="Number">3177.6400000000003</Data></Cell>
+			<Cell><Data ss:Type="Number">25551.61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">880</Data></Cell>
+			<Cell><Data ss:Type="Number">24302.850000000002</Data></Cell>
+			<Cell><Data ss:Type="Number">2865.8400000000006</Data></Cell>
+			<Cell><Data ss:Type="Number">21437.010000000002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">378</Data></Cell>
+			<Cell><Data ss:Type="Number">11018.300000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">1468.6700000000003</Data></Cell>
+			<Cell><Data ss:Type="Number">9549.630000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+			<Cell><Data ss:Type="Number">4203.66</Data></Cell>
+			<Cell><Data ss:Type="Number">627.9</Data></Cell>
+			<Cell><Data ss:Type="Number">3575.7599999999998</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">189</Data></Cell>
+			<Cell><Data ss:Type="Number">3510.5</Data></Cell>
+			<Cell><Data ss:Type="Number">1191.9199999999998</Data></Cell>
+			<Cell><Data ss:Type="Number">2318.58</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">351</Data></Cell>
+			<Cell><Data ss:Type="Number">13168</Data></Cell>
+			<Cell><Data ss:Type="Number">1641.16</Data></Cell>
+			<Cell><Data ss:Type="Number">11526.84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">438</Data></Cell>
+			<Cell><Data ss:Type="Number">9183.53</Data></Cell>
+			<Cell><Data ss:Type="Number">1478.1299999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">7705.400000000001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">1092</Data></Cell>
+			<Cell><Data ss:Type="Number">24470</Data></Cell>
+			<Cell><Data ss:Type="Number">4481.21</Data></Cell>
+			<Cell><Data ss:Type="Number">19988.79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">405</Data></Cell>
+			<Cell><Data ss:Type="Number">22612.88</Data></Cell>
+			<Cell><Data ss:Type="Number">2032.2500000000002</Data></Cell>
+			<Cell><Data ss:Type="Number">20580.63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">446</Data></Cell>
+			<Cell><Data ss:Type="Number">10737.5</Data></Cell>
+			<Cell><Data ss:Type="Number">2603.4199999999996</Data></Cell>
+			<Cell><Data ss:Type="Number">8134.08</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">1005</Data></Cell>
+			<Cell><Data ss:Type="Number">36452.1</Data></Cell>
+			<Cell><Data ss:Type="Number">4730.840000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">31721.26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">630</Data></Cell>
+			<Cell><Data ss:Type="Number">10312.3</Data></Cell>
+			<Cell><Data ss:Type="Number">2136.93</Data></Cell>
+			<Cell><Data ss:Type="Number">8175.369999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">367</Data></Cell>
+			<Cell><Data ss:Type="Number">15073</Data></Cell>
+			<Cell><Data ss:Type="Number">1471.69</Data></Cell>
+			<Cell><Data ss:Type="Number">13601.31</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">297</Data></Cell>
+			<Cell><Data ss:Type="Number">5789.25</Data></Cell>
+			<Cell><Data ss:Type="Number">1252.0600000000002</Data></Cell>
+			<Cell><Data ss:Type="Number">4537.19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meat & Poultry</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">128</Data></Cell>
+			<Cell><Data ss:Type="Number">4116</Data></Cell>
+			<Cell><Data ss:Type="Number">111.71</Data></Cell>
+			<Cell><Data ss:Type="Number">4004.29</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seafood</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">118</Data></Cell>
+			<Cell><Data ss:Type="Number">1262.16</Data></Cell>
+			<Cell><Data ss:Type="Number">359.3899999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">902.7700000000002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Confections</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">179</Data></Cell>
+			<Cell><Data ss:Type="Number">2459.4500000000003</Data></Cell>
+			<Cell><Data ss:Type="Number">587.9499999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">1871.5000000000005</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">221</Data></Cell>
+			<Cell><Data ss:Type="Number">4597</Data></Cell>
+			<Cell><Data ss:Type="Number">735.7</Data></Cell>
+			<Cell><Data ss:Type="Number">3861.3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Produce</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">1333.05</Data></Cell>
+			<Cell><Data ss:Type="Number">138.02</Data></Cell>
+			<Cell><Data ss:Type="Number">1195.03</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Condiments</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="Number">1074</Data></Cell>
+			<Cell><Data ss:Type="Number">171.21</Data></Cell>
+			<Cell><Data ss:Type="Number">902.79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dairy Products</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">636</Data></Cell>
+			<Cell><Data ss:Type="Number">186.54</Data></Cell>
+			<Cell><Data ss:Type="Number">449.46000000000004</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grains & Cereals</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">136</Data></Cell>
+			<Cell><Data ss:Type="Number">4421</Data></Cell>
+			<Cell><Data ss:Type="Number">284.2299999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">4136.77</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
