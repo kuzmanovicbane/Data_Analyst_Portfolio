@@ -1,0 +1,2275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">country</Data></Cell>
+			<Cell><Data ss:Type="String">Year_</Data></Cell>
+			<Cell><Data ss:Type="String">Month_</Data></Cell>
+			<Cell><Data ss:Type="String">RevenuePerFreightUnit</Data></Cell>
+			<Cell><Data ss:Type="String">RankingRevPerFreUnit</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Argentina</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">108.86</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Argentina</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">31.28</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Argentina</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">13.55</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Argentina</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">13.1</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Argentina</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">12.77</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Argentina</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">12.74</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Argentina</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">12.2</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Argentina</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">11.42</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Argentina</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">11.36</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Argentina</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">10.7</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">94.93</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">53.83</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">39.2</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">37.38</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">29.21</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">24.86</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">20.39</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">20.17</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">20.15</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">19.94</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">19.25</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">16.62</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">16.3</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">16.09</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">15.65</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">14.55</Data></Cell>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">13.57</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">13.22</Data></Cell>
+			<Cell><Data ss:Type="String">18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">12.32</Data></Cell>
+			<Cell><Data ss:Type="String">19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">10.92</Data></Cell>
+			<Cell><Data ss:Type="String">20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">432.03</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">231.29</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">81.78</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">72.71</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">37.55</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">29.82</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">26.46</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">26.27</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">21.19</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">14.19</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">11.84</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">299.35</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">49.31</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">46.62</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">45.63</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">31.5</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">29.95</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">29.51</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">29.17</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">28.6</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">23.86</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">22.04</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">21.66</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">21.32</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">18.54</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">18.48</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">17.74</Data></Cell>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">16.53</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">15.21</Data></Cell>
+			<Cell><Data ss:Type="String">18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">14.88</Data></Cell>
+			<Cell><Data ss:Type="String">19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">14.11</Data></Cell>
+			<Cell><Data ss:Type="String">20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">13.32</Data></Cell>
+			<Cell><Data ss:Type="String">21</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">11.74</Data></Cell>
+			<Cell><Data ss:Type="String">22</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">264.86</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">83.16</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">43.19</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">41.46</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">36.36</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">33.22</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">20.41</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">17.7</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">16.86</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">16.28</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">12.89</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">12.79</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">11.06</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">160.52</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">85.22</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">64.53</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">61.56</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">23.37</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">20.77</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">18.75</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">17.46</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">16.42</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">15.38</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">15.11</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">14.91</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">13.3</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">13.25</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">11.67</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">547.39</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">331.58</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">160</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">41.81</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">41.22</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">38.4</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">29.61</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">29.54</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">23.6</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">18.12</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">15.48</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">15.35</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">14.18</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">13.89</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">10.08</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">202.67</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">89.62</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">57.33</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">51.6</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">43.45</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">36.79</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">32.43</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">28.75</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">27.61</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">27.27</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">20.9</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">20.65</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">20.51</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">18.62</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">18.49</Data></Cell>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">17.89</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">17.78</Data></Cell>
+			<Cell><Data ss:Type="String">18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">17.73</Data></Cell>
+			<Cell><Data ss:Type="String">19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">16.88</Data></Cell>
+			<Cell><Data ss:Type="String">20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">15.12</Data></Cell>
+			<Cell><Data ss:Type="String">21</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">10.6</Data></Cell>
+			<Cell><Data ss:Type="String">22</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">10.46</Data></Cell>
+			<Cell><Data ss:Type="String">23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">1286.88</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">50.23</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">46.43</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">42.27</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">31.76</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">29.23</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">28.8</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">27.76</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">27.6</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">23.98</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">23.35</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">22.53</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">22.32</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">21.13</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">19.65</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">17.14</Data></Cell>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">16.34</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">14.74</Data></Cell>
+			<Cell><Data ss:Type="String">18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">14.29</Data></Cell>
+			<Cell><Data ss:Type="String">19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">14.13</Data></Cell>
+			<Cell><Data ss:Type="String">20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">14.04</Data></Cell>
+			<Cell><Data ss:Type="String">21</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">13.89</Data></Cell>
+			<Cell><Data ss:Type="String">22</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">13.62</Data></Cell>
+			<Cell><Data ss:Type="String">23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">91.52</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">60.44</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">58.64</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">30.88</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">24.57</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">22.68</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">22.61</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">21.99</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">19.65</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">17.69</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">16.13</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">14.85</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">13.55</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">58.33</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">47.71</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">43.76</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">38.54</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">34.39</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">29.08</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">23.66</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">23.35</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">21.44</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">21.18</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">20.98</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">18.78</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">18.54</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">14.67</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">11.52</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">11.27</Data></Cell>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">153.7</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">137.88</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">44.28</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">36.23</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">31.02</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">28.24</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">26.69</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">20.08</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">17.46</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">16.25</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">15.95</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">14.96</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">14.49</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">12.89</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">12.82</Data></Cell>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">10.93</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">134.71</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">37.19</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">14.96</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">12.94</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">12.63</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">11.3</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">116.5</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">44.01</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">16.81</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">15.33</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">10.02</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">1193.5</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">118.46</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">34.38</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">25.19</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">25.17</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">23.75</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">14.48</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">13.99</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">13.02</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">11.53</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">173.38</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">63.94</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">41.57</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">32.47</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">23.7</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">18.1</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">15.48</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">15.08</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">14.01</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">13.41</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">12.6</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">11.78</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">197.41</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">38.4</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">38.34</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">35.71</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">32.31</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">20.67</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">20.33</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">19.16</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">18.57</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">13.83</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">13.36</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">13.25</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">12.81</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">12.68</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">12.3</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">10.84</Data></Cell>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Switzerland</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">1003.42</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Switzerland</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">94.67</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Switzerland</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">37.42</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Switzerland</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">35.95</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Switzerland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">25.68</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Switzerland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">23.13</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Switzerland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">20.08</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Switzerland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">19.26</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Switzerland</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">18.19</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Switzerland</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">16.08</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">78.38</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">47.11</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">39.79</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">36.49</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">34.92</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">32.47</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">31.96</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">31.37</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">25.54</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">22.85</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">21.05</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">18.99</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">17.01</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">16.44</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">15.73</Data></Cell>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">13.97</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">13.07</Data></Cell>
+			<Cell><Data ss:Type="String">18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">12.64</Data></Cell>
+			<Cell><Data ss:Type="String">19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">12.38</Data></Cell>
+			<Cell><Data ss:Type="String">20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">10.98</Data></Cell>
+			<Cell><Data ss:Type="String">21</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">261.35</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">84.3</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">32.17</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">27.77</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">27.18</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">25.47</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">24.93</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">24.89</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">24.61</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">24.3</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">22.93</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">20.72</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">20.22</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">18.93</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">17.2</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">16.15</Data></Cell>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">15.79</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">15.75</Data></Cell>
+			<Cell><Data ss:Type="String">18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">14.35</Data></Cell>
+			<Cell><Data ss:Type="String">19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">13.58</Data></Cell>
+			<Cell><Data ss:Type="String">20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">13.15</Data></Cell>
+			<Cell><Data ss:Type="String">21</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">13.14</Data></Cell>
+			<Cell><Data ss:Type="String">22</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">8.55</Data></Cell>
+			<Cell><Data ss:Type="String">23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">8755</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">152.16</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">56.81</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">55.1</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">39.8</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">38.99</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">30.95</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">29.61</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">26.47</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">24.94</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">20.6</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">20.17</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">17.07</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">16.68</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">15.08</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">14.99</Data></Cell>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">14.12</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">13.81</Data></Cell>
+			<Cell><Data ss:Type="String">18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">13.11</Data></Cell>
+			<Cell><Data ss:Type="String">19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">12.71</Data></Cell>
+			<Cell><Data ss:Type="String">20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">11.49</Data></Cell>
+			<Cell><Data ss:Type="String">21</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

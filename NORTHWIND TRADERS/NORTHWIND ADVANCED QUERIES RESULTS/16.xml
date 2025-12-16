@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">companyName</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueGermany</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueMexico</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueUK</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueSweden</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueFrance</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueSpain</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueCanada</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueArgentina</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueSwitzerland</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueBrazil</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueAustria</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueItaly</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenuePortugal</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueUSA</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueVenezuela</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueIreland</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueBelgium</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueNorway</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueDenmark</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueFinland</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenuePoland</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Federal Shipping</Data></Cell>
+			<Cell><Data ss:Type="Number">55359.2</Data></Cell>
+			<Cell><Data ss:Type="Number">10213.05</Data></Cell>
+			<Cell><Data ss:Type="Number">19790.4</Data></Cell>
+			<Cell><Data ss:Type="Number">15555.05</Data></Cell>
+			<Cell><Data ss:Type="Number">29968.4</Data></Cell>
+			<Cell><Data ss:Type="Number">6609.8</Data></Cell>
+			<Cell><Data ss:Type="Number">20605.5</Data></Cell>
+			<Cell><Data ss:Type="Number">1210.3</Data></Cell>
+			<Cell><Data ss:Type="Number">14096.26</Data></Cell>
+			<Cell><Data ss:Type="Number">17434.92</Data></Cell>
+			<Cell><Data ss:Type="Number">46566.45</Data></Cell>
+			<Cell><Data ss:Type="Number">4478.45</Data></Cell>
+			<Cell><Data ss:Type="Number">5898.25</Data></Cell>
+			<Cell><Data ss:Type="Number">96295.94</Data></Cell>
+			<Cell><Data ss:Type="Number">14340.800000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">11743.55</Data></Cell>
+			<Cell><Data ss:Type="Number">11592.8</Data></Cell>
+			<Cell><Data ss:Type="Number">500</Data></Cell>
+			<Cell><Data ss:Type="Number">18874</Data></Cell>
+			<Cell><Data ss:Type="Number">5171.35</Data></Cell>
+			<Cell><Data ss:Type="Number">1446.35</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Speedy Express</Data></Cell>
+			<Cell><Data ss:Type="Number">101944.20000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">4333.8</Data></Cell>
+			<Cell><Data ss:Type="Number">13145.609999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">16471</Data></Cell>
+			<Cell><Data ss:Type="Number">22080.3</Data></Cell>
+			<Cell><Data ss:Type="Number">2978.6</Data></Cell>
+			<Cell><Data ss:Type="Number">5777.8</Data></Cell>
+			<Cell><Data ss:Type="Number">1816.2</Data></Cell>
+			<Cell><Data ss:Type="Number">6356.2</Data></Cell>
+			<Cell><Data ss:Type="Number">38308.329999999994</Data></Cell>
+			<Cell><Data ss:Type="Number">45125.33</Data></Cell>
+			<Cell><Data ss:Type="Number">8213.5</Data></Cell>
+			<Cell><Data ss:Type="Number">1099.6999999999998</Data></Cell>
+			<Cell><Data ss:Type="Number">56867.55</Data></Cell>
+			<Cell><Data ss:Type="Number">21921.089999999997</Data></Cell>
+			<Cell><Data ss:Type="Number">8357.599999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">5370.18</Data></Cell>
+			<Cell><Data ss:Type="Number">200</Data></Cell>
+			<Cell><Data ss:Type="Number">6777.7</Data></Cell>
+			<Cell><Data ss:Type="Number">6246.900000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">591.5999999999999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">United Package</Data></Cell>
+			<Cell><Data ss:Type="Number">87337.23000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">9526.599999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">27680.5</Data></Cell>
+			<Cell><Data ss:Type="Number">27497.649999999998</Data></Cell>
+			<Cell><Data ss:Type="Number">33450.06</Data></Cell>
+			<Cell><Data ss:Type="Number">9843.49</Data></Cell>
+			<Cell><Data ss:Type="Number">28950.800000000003</Data></Cell>
+			<Cell><Data ss:Type="Number">5092.6</Data></Cell>
+			<Cell><Data ss:Type="Number">12467.039999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">59225.229999999996</Data></Cell>
+			<Cell><Data ss:Type="Number">47804.85</Data></Cell>
+			<Cell><Data ss:Type="Number">4013.2</Data></Cell>
+			<Cell><Data ss:Type="Number">5470.700000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">110403.48999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">24553</Data></Cell>
+			<Cell><Data ss:Type="Number">37216.24</Data></Cell>
+			<Cell><Data ss:Type="Number">18172</Data></Cell>
+			<Cell><Data ss:Type="Number">5035.150000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">9130.55</Data></Cell>
+			<Cell><Data ss:Type="Number">8360.2</Data></Cell>
+			<Cell><Data ss:Type="Number">1494</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

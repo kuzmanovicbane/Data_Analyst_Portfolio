@@ -1,0 +1,1434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">companyName</Data></Cell>
+			<Cell><Data ss:Type="String">Year_</Data></Cell>
+			<Cell><Data ss:Type="String">Month_</Data></Cell>
+			<Cell><Data ss:Type="String">AverageFreight</Data></Cell>
+			<Cell><Data ss:Type="String">AverageFreightForAll</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">143.285</Data></Cell>
+			<Cell><Data ss:Type="Number">58.55363636363636</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Frankenversand</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">208.58</Data></Cell>
+			<Cell><Data ss:Type="Number">58.55363636363636</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GROSELLA-Restaurante</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">66.29</Data></Cell>
+			<Cell><Data ss:Type="Number">58.55363636363636</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hanari Carnes</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+			<Cell><Data ss:Type="Number">58.55363636363636</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HILARION-Abastos</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">81.91</Data></Cell>
+			<Cell><Data ss:Type="Number">58.55363636363636</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Richter Supermarkt</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">148.33</Data></Cell>
+			<Cell><Data ss:Type="Number">58.55363636363636</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Comércio Mineiro</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">79.7</Data></Cell>
+			<Cell><Data ss:Type="Number">55.886800000000015</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LILA-Supermercado</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">84.81</Data></Cell>
+			<Cell><Data ss:Type="Number">55.886800000000015</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Morgenstern Gesundkost</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">125.77</Data></Cell>
+			<Cell><Data ss:Type="Number">55.886800000000015</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QUICK-Stop</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">127.38</Data></Cell>
+			<Cell><Data ss:Type="Number">55.886800000000015</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Rattlesnake Canyon Grocery</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">122.645</Data></Cell>
+			<Cell><Data ss:Type="Number">55.886800000000015</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wartian Herkku</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">136.54</Data></Cell>
+			<Cell><Data ss:Type="Number">55.886800000000015</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Godos Cocina Típica</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">107.83</Data></Cell>
+			<Cell><Data ss:Type="Number">48.84695652173913</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hungry Owl All-Night Grocers</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">107.75999999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">48.84695652173913</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Old World Delicatessen</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">257.62</Data></Cell>
+			<Cell><Data ss:Type="Number">48.84695652173913</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Rattlesnake Canyon Grocery</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">112.155</Data></Cell>
+			<Cell><Data ss:Type="Number">48.84695652173913</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tortuga Restaurante</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">63.79</Data></Cell>
+			<Cell><Data ss:Type="Number">48.84695652173913</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bólido Comidas preparadas</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">77.92</Data></Cell>
+			<Cell><Data ss:Type="Number">58.48423076923078</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bon app'</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">88.25</Data></Cell>
+			<Cell><Data ss:Type="Number">58.48423076923078</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Folk och fä HB</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">63.36</Data></Cell>
+			<Cell><Data ss:Type="Number">58.48423076923078</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Frankenversand</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">81.545</Data></Cell>
+			<Cell><Data ss:Type="Number">58.48423076923078</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Furia Bacalhau e Frutos do Mar</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">87.03</Data></Cell>
+			<Cell><Data ss:Type="Number">58.48423076923078</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Lehmanns Marktstand</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">110.37</Data></Cell>
+			<Cell><Data ss:Type="Number">58.48423076923078</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Old World Delicatessen</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">84.21</Data></Cell>
+			<Cell><Data ss:Type="Number">58.48423076923078</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Save-a-lot Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">214.27</Data></Cell>
+			<Cell><Data ss:Type="Number">58.48423076923078</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Split Rail Beer & Ale</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">191.67</Data></Cell>
+			<Cell><Data ss:Type="Number">58.48423076923078</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tortuga Restaurante</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">64.5</Data></Cell>
+			<Cell><Data ss:Type="Number">58.48423076923078</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Blondesddsl père et fils</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">131.7</Data></Cell>
+			<Cell><Data ss:Type="Number">86.07440000000003</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bon app'</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">96.04</Data></Cell>
+			<Cell><Data ss:Type="Number">86.07440000000003</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">132.14000000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">86.07440000000003</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Piccolo und mehr</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">360.63</Data></Cell>
+			<Cell><Data ss:Type="Number">86.07440000000003</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QUICK-Stop</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">216.115</Data></Cell>
+			<Cell><Data ss:Type="Number">86.07440000000003</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Rattlesnake Canyon Grocery</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">142.08</Data></Cell>
+			<Cell><Data ss:Type="Number">86.07440000000003</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seven Seas Imports</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">288.43</Data></Cell>
+			<Cell><Data ss:Type="Number">86.07440000000003</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Berglunds snabbköp</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">168.64</Data></Cell>
+			<Cell><Data ss:Type="Number">90.27709677419354</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">110.57499999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">90.27709677419354</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Frankenversand</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">135.35</Data></Cell>
+			<Cell><Data ss:Type="Number">90.27709677419354</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HILARION-Abastos</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">184.41</Data></Cell>
+			<Cell><Data ss:Type="Number">90.27709677419354</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Piccolo und mehr</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">122.46</Data></Cell>
+			<Cell><Data ss:Type="Number">90.27709677419354</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Queen Cozinha</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">890.78</Data></Cell>
+			<Cell><Data ss:Type="Number">90.27709677419354</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Santé Gourmet</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">93.63</Data></Cell>
+			<Cell><Data ss:Type="Number">90.27709677419354</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Save-a-lot Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">107.86</Data></Cell>
+			<Cell><Data ss:Type="Number">90.27709677419354</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Split Rail Beer & Ale</Data></Cell>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">113.32000000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">90.27709677419354</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Eastern Connection</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">83.93</Data></Cell>
+			<Cell><Data ss:Type="Number">67.8478787878788</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">200.15</Data></Cell>
+			<Cell><Data ss:Type="Number">67.8478787878788</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Magazzini Alimentari Riuniti</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">155.97</Data></Cell>
+			<Cell><Data ss:Type="Number">67.8478787878788</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mère Paillarde</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">370.61</Data></Cell>
+			<Cell><Data ss:Type="Number">67.8478787878788</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ottilies Käseladen</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">91.48</Data></Cell>
+			<Cell><Data ss:Type="Number">67.8478787878788</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Que Delícia</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">99.23</Data></Cell>
+			<Cell><Data ss:Type="Number">67.8478787878788</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Queen Cozinha</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">108.04</Data></Cell>
+			<Cell><Data ss:Type="Number">67.8478787878788</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Richter Supermarkt</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">137.35</Data></Cell>
+			<Cell><Data ss:Type="Number">67.8478787878788</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Simons bistro</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">70.29</Data></Cell>
+			<Cell><Data ss:Type="Number">67.8478787878788</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Blondesddsl père et fils</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">104.97999999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">55.22241379310343</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LILA-Supermercado</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">148.61</Data></Cell>
+			<Cell><Data ss:Type="Number">55.22241379310343</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Old World Delicatessen</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">73.02</Data></Cell>
+			<Cell><Data ss:Type="Number">55.22241379310343</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Princesa Isabel Vinhos</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">73.83</Data></Cell>
+			<Cell><Data ss:Type="Number">55.22241379310343</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QUICK-Stop</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">189.09</Data></Cell>
+			<Cell><Data ss:Type="Number">55.22241379310343</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ricardo Adocicados</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">68.66</Data></Cell>
+			<Cell><Data ss:Type="Number">55.22241379310343</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Save-a-lot Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">113.395</Data></Cell>
+			<Cell><Data ss:Type="Number">55.22241379310343</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Suprêmes délices</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">147.06</Data></Cell>
+			<Cell><Data ss:Type="Number">55.22241379310343</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wartian Herkku</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">100.21</Data></Cell>
+			<Cell><Data ss:Type="Number">55.22241379310343</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bon app'</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">64.56</Data></Cell>
+			<Cell><Data ss:Type="Number">62.96033333333333</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HILARION-Abastos</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">81.71</Data></Cell>
+			<Cell><Data ss:Type="Number">62.96033333333333</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LINO-Delicateses</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">64.45</Data></Cell>
+			<Cell><Data ss:Type="Number">62.96033333333333</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Pericles Comidas clásicas</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">83.49</Data></Cell>
+			<Cell><Data ss:Type="Number">62.96033333333333</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Queen Cozinha</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">71.07</Data></Cell>
+			<Cell><Data ss:Type="Number">62.96033333333333</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Rattlesnake Canyon Grocery</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">708.95</Data></Cell>
+			<Cell><Data ss:Type="Number">62.96033333333333</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ricardo Adocicados</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">64.33</Data></Cell>
+			<Cell><Data ss:Type="Number">62.96033333333333</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Vaffeljernet</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">145.04</Data></Cell>
+			<Cell><Data ss:Type="Number">62.96033333333333</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bon app'</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">350.64</Data></Cell>
+			<Cell><Data ss:Type="Number">94.80967741935486</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Die Wandernde Kuh</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">105.65</Data></Cell>
+			<Cell><Data ss:Type="Number">94.80967741935486</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">789.95</Data></Cell>
+			<Cell><Data ss:Type="Number">94.80967741935486</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LILA-Supermercado</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">102.02</Data></Cell>
+			<Cell><Data ss:Type="Number">94.80967741935486</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QUICK-Stop</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">204.47</Data></Cell>
+			<Cell><Data ss:Type="Number">94.80967741935486</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Save-a-lot Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">367.63</Data></Cell>
+			<Cell><Data ss:Type="Number">94.80967741935486</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tortuga Restaurante</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">218.15</Data></Cell>
+			<Cell><Data ss:Type="Number">94.80967741935486</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Berglunds snabbköp</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">244.79</Data></Cell>
+			<Cell><Data ss:Type="Number">108.16874999999997</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Folk och fä HB</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">188.04</Data></Cell>
+			<Cell><Data ss:Type="Number">108.16874999999997</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ottilies Käseladen</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">120.97</Data></Cell>
+			<Cell><Data ss:Type="Number">108.16874999999997</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Piccolo und mehr</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">339.22</Data></Cell>
+			<Cell><Data ss:Type="Number">108.16874999999997</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QUICK-Stop</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">406.9266666666667</Data></Cell>
+			<Cell><Data ss:Type="Number">108.16874999999997</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seven Seas Imports</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">128.03</Data></Cell>
+			<Cell><Data ss:Type="Number">108.16874999999997</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Victuailles en stock</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">194.72</Data></Cell>
+			<Cell><Data ss:Type="Number">108.16874999999997</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Antonio Moreno Taquería</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">84.84</Data></Cell>
+			<Cell><Data ss:Type="Number">61.754999999999995</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Around the Horn</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">72.97</Data></Cell>
+			<Cell><Data ss:Type="Number">61.754999999999995</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Berglunds snabbköp</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">116.43</Data></Cell>
+			<Cell><Data ss:Type="Number">61.754999999999995</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Folk och fä HB</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">242.21</Data></Cell>
+			<Cell><Data ss:Type="Number">61.754999999999995</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Lehmanns Marktstand</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">96.72</Data></Cell>
+			<Cell><Data ss:Type="Number">61.754999999999995</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mère Paillarde</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">98.07000000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">61.754999999999995</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Morgenstern Gesundkost</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">127.34</Data></Cell>
+			<Cell><Data ss:Type="Number">61.754999999999995</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ottilies Käseladen</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">75.89</Data></Cell>
+			<Cell><Data ss:Type="Number">61.754999999999995</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Save-a-lot Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">252.49</Data></Cell>
+			<Cell><Data ss:Type="Number">61.754999999999995</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">96.78</Data></Cell>
+			<Cell><Data ss:Type="Number">74.50666666666667</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Lehmanns Marktstand</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">103.14999999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">74.50666666666667</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mère Paillarde</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">211.95</Data></Cell>
+			<Cell><Data ss:Type="Number">74.50666666666667</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QUICK-Stop</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">194.67</Data></Cell>
+			<Cell><Data ss:Type="Number">74.50666666666667</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Save-a-lot Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">264.36333333333334</Data></Cell>
+			<Cell><Data ss:Type="Number">74.50666666666667</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tradição Hipermercados</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">79.4</Data></Cell>
+			<Cell><Data ss:Type="Number">74.50666666666667</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wolski  Zajazd</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">80.65</Data></Cell>
+			<Cell><Data ss:Type="Number">74.50666666666667</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Berglunds snabbköp</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">138.69</Data></Cell>
+			<Cell><Data ss:Type="Number">93.28090909090909</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">477.9</Data></Cell>
+			<Cell><Data ss:Type="Number">93.28090909090909</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Familia Arquibaldo</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">176.81</Data></Cell>
+			<Cell><Data ss:Type="Number">93.28090909090909</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Folies gourmandes</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">487.38</Data></Cell>
+			<Cell><Data ss:Type="Number">93.28090909090909</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Frankenversand</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">97.18</Data></Cell>
+			<Cell><Data ss:Type="Number">93.28090909090909</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HILARION-Abastos</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">179.61</Data></Cell>
+			<Cell><Data ss:Type="Number">93.28090909090909</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hungry Owl All-Night Grocers</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">142.33</Data></Cell>
+			<Cell><Data ss:Type="Number">93.28090909090909</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LINO-Delicateses</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">158.44</Data></Cell>
+			<Cell><Data ss:Type="Number">93.28090909090909</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mère Paillarde</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">122.86500000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">93.28090909090909</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Queen Cozinha</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">201.29</Data></Cell>
+			<Cell><Data ss:Type="Number">93.28090909090909</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Save-a-lot Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">107.46</Data></Cell>
+			<Cell><Data ss:Type="Number">93.28090909090909</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">The Cracker Box</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">94.8</Data></Cell>
+			<Cell><Data ss:Type="Number">93.28090909090909</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bon app'</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">113.15</Data></Cell>
+			<Cell><Data ss:Type="Number">87.48783783783787</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Frankenversand</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">109.52666666666669</Data></Cell>
+			<Cell><Data ss:Type="Number">87.48783783783787</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hungry Coyote Import Store</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">111.29</Data></Cell>
+			<Cell><Data ss:Type="Number">87.48783783783787</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hungry Owl All-Night Grocers</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">156.99</Data></Cell>
+			<Cell><Data ss:Type="Number">87.48783783783787</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ottilies Käseladen</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">145.63</Data></Cell>
+			<Cell><Data ss:Type="Number">87.48783783783787</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Piccolo und mehr</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">96.5</Data></Cell>
+			<Cell><Data ss:Type="Number">87.48783783783787</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Queen Cozinha</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">105.81</Data></Cell>
+			<Cell><Data ss:Type="Number">87.48783783783787</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QUICK-Stop</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">364.15</Data></Cell>
+			<Cell><Data ss:Type="Number">87.48783783783787</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Richter Supermarkt</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">232.42</Data></Cell>
+			<Cell><Data ss:Type="Number">87.48783783783787</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Save-a-lot Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">370.83500000000004</Data></Cell>
+			<Cell><Data ss:Type="Number">87.48783783783787</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">272.47</Data></Cell>
+			<Cell><Data ss:Type="Number">103.82973684210526</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Folk och fä HB</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">152.3</Data></Cell>
+			<Cell><Data ss:Type="Number">103.82973684210526</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Gourmet Lanchonetes</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">210.8</Data></Cell>
+			<Cell><Data ss:Type="Number">103.82973684210526</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hungry Owl All-Night Grocers</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">155.12</Data></Cell>
+			<Cell><Data ss:Type="Number">103.82973684210526</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Königlich Essen</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">170.88</Data></Cell>
+			<Cell><Data ss:Type="Number">103.82973684210526</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Old World Delicatessen</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">135.63</Data></Cell>
+			<Cell><Data ss:Type="Number">103.82973684210526</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QUICK-Stop</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">419.10999999999996</Data></Cell>
+			<Cell><Data ss:Type="Number">103.82973684210526</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Vaffeljernet</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">299.09</Data></Cell>
+			<Cell><Data ss:Type="Number">103.82973684210526</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Berglunds snabbköp</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">110.11</Data></Cell>
+			<Cell><Data ss:Type="Number">59.083823529411774</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bottom-Dollar Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">243.73</Data></Cell>
+			<Cell><Data ss:Type="Number">59.083823529411774</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Chop-suey Chinese</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">64.04</Data></Cell>
+			<Cell><Data ss:Type="Number">59.083823529411774</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Island Trading</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">61.53</Data></Cell>
+			<Cell><Data ss:Type="Number">59.083823529411774</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LINO-Delicateses</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">141.06</Data></Cell>
+			<Cell><Data ss:Type="Number">59.083823529411774</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Piccolo und mehr</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">117.33</Data></Cell>
+			<Cell><Data ss:Type="Number">59.083823529411774</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Reggiani Caseifici</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">89.9</Data></Cell>
+			<Cell><Data ss:Type="Number">59.083823529411774</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Richter Supermarkt</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">134.48</Data></Cell>
+			<Cell><Data ss:Type="Number">59.083823529411774</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Save-a-lot Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">120.37</Data></Cell>
+			<Cell><Data ss:Type="Number">59.083823529411774</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Split Rail Beer & Ale</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">73.21</Data></Cell>
+			<Cell><Data ss:Type="Number">59.083823529411774</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Vaffeljernet</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">69.19</Data></Cell>
+			<Cell><Data ss:Type="Number">59.083823529411774</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wartian Herkku</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">79.3</Data></Cell>
+			<Cell><Data ss:Type="Number">59.083823529411774</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">White Clover Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">81.88</Data></Cell>
+			<Cell><Data ss:Type="Number">59.083823529411774</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bólido Comidas preparadas</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">97.09</Data></Cell>
+			<Cell><Data ss:Type="Number">78.29083333333332</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">146.25199999999998</Data></Cell>
+			<Cell><Data ss:Type="Number">78.29083333333332</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Folk och fä HB</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">188.47</Data></Cell>
+			<Cell><Data ss:Type="Number">78.29083333333332</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">La maison d'Asie</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">249.93</Data></Cell>
+			<Cell><Data ss:Type="Number">78.29083333333332</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Lehmanns Marktstand</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">91.28</Data></Cell>
+			<Cell><Data ss:Type="Number">78.29083333333332</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Maison Dewey</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">155.64</Data></Cell>
+			<Cell><Data ss:Type="Number">78.29083333333332</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ottilies Käseladen</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">157.55</Data></Cell>
+			<Cell><Data ss:Type="Number">78.29083333333332</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Queen Cozinha</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">110.87</Data></Cell>
+			<Cell><Data ss:Type="Number">78.29083333333332</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seven Seas Imports</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">82.38499999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">78.29083333333332</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Simons bistro</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">257.26</Data></Cell>
+			<Cell><Data ss:Type="Number">78.29083333333332</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">The Big Cheese</Data></Cell>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">237.34</Data></Cell>
+			<Cell><Data ss:Type="Number">78.29083333333332</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Berglunds snabbköp</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">101.085</Data></Cell>
+			<Cell><Data ss:Type="Number">99.33527272727277</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">256.05</Data></Cell>
+			<Cell><Data ss:Type="Number">99.33527272727277</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Great Lakes Food Market</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">719.78</Data></Cell>
+			<Cell><Data ss:Type="Number">99.33527272727277</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Island Trading</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">154.72</Data></Cell>
+			<Cell><Data ss:Type="Number">99.33527272727277</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Königlich Essen</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">153.315</Data></Cell>
+			<Cell><Data ss:Type="Number">99.33527272727277</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LILA-Supermercado</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">163.97</Data></Cell>
+			<Cell><Data ss:Type="Number">99.33527272727277</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Old World Delicatessen</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">108.25</Data></Cell>
+			<Cell><Data ss:Type="Number">99.33527272727277</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QUICK-Stop</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">212.98</Data></Cell>
+			<Cell><Data ss:Type="Number">99.33527272727277</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Rattlesnake Canyon Grocery</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">105.78500000000001</Data></Cell>
+			<Cell><Data ss:Type="Number">99.33527272727277</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ricardo Adocicados</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">103.965</Data></Cell>
+			<Cell><Data ss:Type="Number">99.33527272727277</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Save-a-lot Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">251.095</Data></Cell>
+			<Cell><Data ss:Type="Number">99.33527272727277</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Suprêmes délices</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">240.38</Data></Cell>
+			<Cell><Data ss:Type="Number">99.33527272727277</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bon app'</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">86.345</Data></Cell>
+			<Cell><Data ss:Type="Number">79.12851851851853</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">162.75</Data></Cell>
+			<Cell><Data ss:Type="Number">79.12851851851853</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hungry Owl All-Night Grocers</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">592.2249999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">79.12851851851853</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Let's Stop N Shop</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">90.97</Data></Cell>
+			<Cell><Data ss:Type="Number">79.12851851851853</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Queen Cozinha</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">81.83666666666666</Data></Cell>
+			<Cell><Data ss:Type="Number">79.12851851851853</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QUICK-Stop</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">197.415</Data></Cell>
+			<Cell><Data ss:Type="Number">79.12851851851853</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Rattlesnake Canyon Grocery</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">280.61</Data></Cell>
+			<Cell><Data ss:Type="Number">79.12851851851853</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seven Seas Imports</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">143.28</Data></Cell>
+			<Cell><Data ss:Type="Number">79.12851851851853</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">White Clover Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">162.95</Data></Cell>
+			<Cell><Data ss:Type="Number">79.12851851851853</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Berglunds snabbköp</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">151.52</Data></Cell>
+			<Cell><Data ss:Type="Number">73.68520547945207</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bon app'</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">77.205</Data></Cell>
+			<Cell><Data ss:Type="Number">73.68520547945207</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Eastern Connection</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">185.48</Data></Cell>
+			<Cell><Data ss:Type="Number">73.68520547945207</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">213.83499999999998</Data></Cell>
+			<Cell><Data ss:Type="Number">73.68520547945207</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France restauration</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">121.82</Data></Cell>
+			<Cell><Data ss:Type="Number">73.68520547945207</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hanari Carnes</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">86.12666666666667</Data></Cell>
+			<Cell><Data ss:Type="Number">73.68520547945207</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hungry Owl All-Night Grocers</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">91.51</Data></Cell>
+			<Cell><Data ss:Type="Number">73.68520547945207</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Océano Atlántico Ltda.</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">133.71</Data></Cell>
+			<Cell><Data ss:Type="Number">73.68520547945207</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Old World Delicatessen</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">144.38</Data></Cell>
+			<Cell><Data ss:Type="Number">73.68520547945207</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Queen Cozinha</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">104.47</Data></Cell>
+			<Cell><Data ss:Type="Number">73.68520547945207</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QUICK-Stop</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">153.84</Data></Cell>
+			<Cell><Data ss:Type="Number">73.68520547945207</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Save-a-lot Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">423.19</Data></Cell>
+			<Cell><Data ss:Type="Number">73.68520547945207</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spécialités du monde</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">87.38</Data></Cell>
+			<Cell><Data ss:Type="Number">73.68520547945207</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Vaffeljernet</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">101.83999999999999</Data></Cell>
+			<Cell><Data ss:Type="Number">73.68520547945207</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">B's Beverages</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">123.83</Data></Cell>
+			<Cell><Data ss:Type="Number">86.39959459459462</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Drachenblut Delikatessen</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">149.47</Data></Cell>
+			<Cell><Data ss:Type="Number">86.39959459459462</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Eastern Connection</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">133.3133333333333</Data></Cell>
+			<Cell><Data ss:Type="Number">86.39959459459462</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">317.10999999999996</Data></Cell>
+			<Cell><Data ss:Type="Number">86.39959459459462</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Folk och fä HB</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">88.50666666666666</Data></Cell>
+			<Cell><Data ss:Type="Number">86.39959459459462</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Frankenversand</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">242.95</Data></Cell>
+			<Cell><Data ss:Type="Number">86.39959459459462</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HILARION-Abastos</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">120.92</Data></Cell>
+			<Cell><Data ss:Type="Number">86.39959459459462</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Princesa Isabel Vinhos</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">202.24</Data></Cell>
+			<Cell><Data ss:Type="Number">86.39959459459462</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QUICK-Stop</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">112.27</Data></Cell>
+			<Cell><Data ss:Type="Number">86.39959459459462</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Save-a-lot Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">399.71</Data></Cell>
+			<Cell><Data ss:Type="Number">86.39959459459462</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">White Clover Markets</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">606.19</Data></Cell>
+			<Cell><Data ss:Type="Number">86.39959459459462</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">258.64</Data></Cell>
+			<Cell><Data ss:Type="Number">48.93428571428573</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Lehmanns Marktstand</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">136</Data></Cell>
+			<Cell><Data ss:Type="Number">48.93428571428573</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Queen Cozinha</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">81.75</Data></Cell>
+			<Cell><Data ss:Type="Number">48.93428571428573</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

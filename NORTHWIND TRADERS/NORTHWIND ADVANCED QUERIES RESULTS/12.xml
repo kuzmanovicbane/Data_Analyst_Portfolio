@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">productName</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRevenueGrowth</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Alice Mutton</Data></Cell>
+			<Cell><Data ss:Type="Number">1677</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Boston Crab Meat</Data></Cell>
+			<Cell><Data ss:Type="Number">55.20000000000027</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Camembert Pierrot</Data></Cell>
+			<Cell><Data ss:Type="Number">-748</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Carnarvon Tigers</Data></Cell>
+			<Cell><Data ss:Type="Number">2187.5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Chai</Data></Cell>
+			<Cell><Data ss:Type="Number">540</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
