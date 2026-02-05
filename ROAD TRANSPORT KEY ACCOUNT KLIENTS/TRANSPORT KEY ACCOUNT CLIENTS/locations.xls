@@ -1,0 +1,31 @@
+city,country,id
+Beograd,RS,1
+Novi Sad,RS,2
+Zagreb,HR,3
+Ljubljana,SI,4
+Budimpesta,HU,5
+Vienaç,AT,6
+Minhen,DE,7
+Frankfurt,DE,8
+Hamburg,DE,9
+Milano,IT,10
+Torino,IT,11
+Pariz,FR,12
+Lion,FR,13
+Madrid,ES,14
+Barselona,ES,15
+Amsterdam,NL,16
+Roterdam,NL,17
+Varsava,PL,18
+Prag,CZ,19
+Bukurest,RO,20
+Sofija,BG,21
+Atina,GR,22
+Istanbul,TR,23
+Ankara,TR,24
+Tel Aviv,IL,25
+Dubai,AE,26
+Abu Dhabi,AE,27
+Rijad,SA,28
+Dzeda,SA,29
+Doha,QA,30
