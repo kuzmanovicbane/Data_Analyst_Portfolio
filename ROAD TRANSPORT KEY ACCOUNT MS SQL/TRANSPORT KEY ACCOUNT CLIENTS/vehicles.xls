@@ -1,0 +1,41 @@
+id,vehicle_type,capacity_tons
+1,Reefer,22
+2,Mega Trailer,20
+3,Reefer,20
+4,Standard Truck,24
+5,Standard Truck,20
+6,ADR,22
+7,Reefer,18
+8,Standard Truck,24
+9,Standard Truck,22
+10,Standard Truck,18
+11,Mega Trailer,18
+12,Reefer,18
+13,Reefer,20
+14,Mega Trailer,18
+15,Reefer,20
+16,Standard Truck,18
+17,Standard Truck,18
+18,Mega Trailer,20
+19,ADR,20
+20,Reefer,22
+21,Mega Trailer,18
+22,Mega Trailer,20
+23,ADR,22
+24,Standard Truck,22
+25,Standard Truck,20
+26,ADR,18
+27,Reefer,22
+28,Standard Truck,18
+29,Mega Trailer,18
+30,Standard Truck,22
+31,Standard Truck,20
+32,ADR,18
+33,Standard Truck,24
+34,Reefer,20
+35,Standard Truck,22
+36,Mega Trailer,24
+37,Standard Truck,18
+38,Reefer,20
+39,Mega Trailer,24
+40,Mega Trailer,20

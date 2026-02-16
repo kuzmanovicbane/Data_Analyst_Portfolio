@@ -1,0 +1,301 @@
+id,origin_id,destination_id,distance_km,region
+1,25,17,1609,Europe
+2,7,9,528,Europe
+3,18,13,351,Europe
+4,9,24,863,Europe
+5,6,14,801,Europe
+6,6,13,757,Europe
+7,23,19,585,Europe
+8,15,21,509,Europe
+9,13,11,1685,Europe
+10,4,5,1416,Europe
+11,9,14,478,Europe
+12,13,16,1509,Europe
+13,27,23,1164,Europe
+14,7,27,1865,Middle East
+15,22,17,361,Europe
+16,23,29,1991,Middle East
+17,7,13,747,Europe
+18,30,4,776,Europe
+19,4,22,1334,Europe
+20,17,28,3032,Middle East
+21,3,9,354,Europe
+22,18,22,1449,Europe
+23,28,18,707,Europe
+24,23,10,1766,Europe
+25,12,26,3130,Middle East
+26,20,15,1736,Europe
+27,1,25,2916,Middle East
+28,10,27,2659,Middle East
+29,16,5,751,Europe
+30,28,11,1219,Europe
+31,11,27,3006,Middle East
+32,6,21,869,Europe
+33,26,23,313,Europe
+34,24,25,3354,Middle East
+35,12,3,626,Europe
+36,30,6,1729,Europe
+37,23,9,1165,Europe
+38,11,10,996,Europe
+39,17,22,869,Europe
+40,23,9,618,Europe
+41,8,15,740,Europe
+42,22,28,3363,Middle East
+43,27,16,989,Europe
+44,9,6,509,Europe
+45,7,23,489,Europe
+46,30,24,1078,Europe
+47,29,15,498,Europe
+48,9,8,1035,Europe
+49,14,29,2504,Middle East
+50,26,18,1536,Europe
+51,28,18,841,Europe
+52,11,21,388,Europe
+53,10,15,1794,Europe
+54,26,11,1240,Europe
+55,19,10,1398,Europe
+56,11,20,555,Europe
+57,16,17,1075,Europe
+58,26,22,461,Europe
+59,16,23,1430,Europe
+60,22,26,2400,Middle East
+61,11,7,1587,Europe
+62,10,23,1566,Europe
+63,21,2,1040,Europe
+64,19,16,1482,Europe
+65,28,26,2193,Middle East
+66,22,24,1742,Europe
+67,7,9,442,Europe
+68,10,24,393,Europe
+69,8,7,1654,Europe
+70,2,25,2266,Middle East
+71,14,21,892,Europe
+72,5,13,463,Europe
+73,11,21,776,Europe
+74,14,8,506,Europe
+75,6,23,1078,Europe
+76,19,17,869,Europe
+77,17,22,1228,Europe
+78,15,25,3101,Middle East
+79,5,6,1047,Europe
+80,4,28,2133,Middle East
+81,24,21,1058,Europe
+82,28,9,1027,Europe
+83,20,30,2229,Middle East
+84,13,17,1672,Europe
+85,7,2,846,Europe
+86,27,23,1737,Europe
+87,6,10,1699,Europe
+88,9,11,1627,Europe
+89,24,5,446,Europe
+90,28,16,1547,Europe
+91,22,24,1600,Europe
+92,7,2,650,Europe
+93,14,2,1393,Europe
+94,8,9,1793,Europe
+95,4,22,801,Europe
+96,6,8,634,Europe
+97,26,30,2746,Middle East
+98,14,17,1077,Europe
+99,9,17,852,Europe
+100,3,21,1610,Europe
+101,21,6,1709,Europe
+102,29,26,2940,Middle East
+103,2,9,749,Europe
+104,27,7,1702,Europe
+105,14,27,2464,Middle East
+106,2,8,414,Europe
+107,4,20,769,Europe
+108,12,20,365,Europe
+109,1,20,946,Europe
+110,10,3,1121,Europe
+111,29,13,848,Europe
+112,6,18,435,Europe
+113,1,11,732,Europe
+114,1,10,1461,Europe
+115,26,16,1770,Europe
+116,8,3,944,Europe
+117,25,20,735,Europe
+118,13,17,1642,Europe
+119,3,30,2822,Middle East
+120,22,26,2610,Middle East
+121,3,22,1616,Europe
+122,30,13,1239,Europe
+123,6,1,592,Europe
+124,27,21,842,Europe
+125,3,5,585,Europe
+126,8,25,2305,Middle East
+127,27,19,1449,Europe
+128,3,21,1403,Europe
+129,20,28,2338,Middle East
+130,27,8,1497,Europe
+131,1,15,1177,Europe
+132,29,18,1495,Europe
+133,12,29,2617,Middle East
+134,5,22,1041,Europe
+135,23,18,749,Europe
+136,4,28,2083,Middle East
+137,4,10,1343,Europe
+138,13,9,1310,Europe
+139,2,29,1986,Middle East
+140,24,27,3347,Middle East
+141,15,12,396,Europe
+142,6,10,524,Europe
+143,15,22,613,Europe
+144,5,30,3085,Middle East
+145,26,9,627,Europe
+146,6,9,1693,Europe
+147,12,28,2664,Middle East
+148,25,29,3021,Middle East
+149,29,6,430,Europe
+150,4,23,1088,Europe
+151,11,16,1081,Europe
+152,22,16,1520,Europe
+153,15,22,1258,Europe
+154,21,7,1383,Europe
+155,1,13,814,Europe
+156,1,5,1433,Europe
+157,4,16,323,Europe
+158,19,29,3193,Middle East
+159,28,5,1776,Europe
+160,2,6,534,Europe
+161,14,23,1696,Europe
+162,13,1,1399,Europe
+163,3,17,846,Europe
+164,15,22,1612,Europe
+165,12,15,996,Europe
+166,27,12,528,Europe
+167,13,7,901,Europe
+168,24,29,2690,Middle East
+169,12,13,623,Europe
+170,19,28,2729,Middle East
+171,12,27,1806,Middle East
+172,8,29,3278,Middle East
+173,20,16,1773,Europe
+174,17,27,2339,Middle East
+175,28,7,1325,Europe
+176,30,7,665,Europe
+177,7,6,1339,Europe
+178,22,4,517,Europe
+179,30,12,1580,Europe
+180,16,21,911,Europe
+181,21,27,3108,Middle East
+182,13,30,2839,Middle East
+183,4,15,1547,Europe
+184,20,8,707,Europe
+185,15,6,613,Europe
+186,6,8,1065,Europe
+187,10,22,630,Europe
+188,3,7,1404,Europe
+189,17,15,1386,Europe
+190,26,11,301,Europe
+191,2,8,1526,Europe
+192,16,18,963,Europe
+193,19,17,1300,Europe
+194,15,3,339,Europe
+195,21,24,529,Europe
+196,17,13,1043,Europe
+197,24,14,929,Europe
+198,30,2,790,Europe
+199,14,26,1918,Middle East
+200,18,1,793,Europe
+201,26,1,1461,Europe
+202,16,18,461,Europe
+203,5,26,1975,Middle East
+204,8,21,1798,Europe
+205,21,10,1295,Europe
+206,4,19,441,Europe
+207,11,6,1390,Europe
+208,23,14,557,Europe
+209,10,15,562,Europe
+210,13,26,3151,Middle East
+211,22,2,1273,Europe
+212,11,22,1425,Europe
+213,13,17,638,Europe
+214,2,8,842,Europe
+215,30,16,1380,Europe
+216,5,21,1542,Europe
+217,9,22,1166,Europe
+218,7,27,2233,Middle East
+219,25,4,1404,Europe
+220,24,15,1794,Europe
+221,18,11,1712,Europe
+222,17,10,711,Europe
+223,17,19,1760,Europe
+224,9,2,938,Europe
+225,6,22,1117,Europe
+226,8,17,1675,Europe
+227,18,20,1630,Europe
+228,30,26,2564,Middle East
+229,17,23,1197,Europe
+230,21,13,1359,Europe
+231,24,28,2724,Middle East
+232,16,10,547,Europe
+233,7,30,2307,Middle East
+234,23,29,2260,Middle East
+235,6,2,431,Europe
+236,4,14,992,Europe
+237,2,12,343,Europe
+238,14,8,1504,Europe
+239,15,6,1434,Europe
+240,24,12,771,Europe
+241,30,1,1505,Europe
+242,22,7,751,Europe
+243,22,3,314,Europe
+244,30,1,445,Europe
+245,24,11,1749,Europe
+246,10,9,1592,Europe
+247,30,3,420,Europe
+248,28,30,2268,Middle East
+249,4,11,438,Europe
+250,24,12,364,Europe
+251,24,1,976,Europe
+252,30,23,445,Europe
+253,14,3,1352,Europe
+254,5,15,787,Europe
+255,25,21,870,Europe
+256,22,24,1670,Europe
+257,3,25,2794,Middle East
+258,12,25,2238,Middle East
+259,28,27,2904,Middle East
+260,13,19,570,Europe
+261,3,14,1781,Europe
+262,4,24,1469,Europe
+263,3,1,1480,Europe
+264,8,28,2768,Middle East
+265,17,12,797,Europe
+266,22,24,1268,Europe
+267,16,18,1133,Europe
+268,13,5,689,Europe
+269,29,6,493,Europe
+270,7,19,498,Europe
+271,14,10,1649,Europe
+272,19,28,2682,Middle East
+273,7,2,1025,Europe
+274,13,20,1167,Europe
+275,22,12,1141,Europe
+276,17,14,1256,Europe
+277,3,21,1793,Europe
+278,10,2,410,Europe
+279,2,13,1679,Europe
+280,20,7,1638,Europe
+281,10,9,1623,Europe
+282,2,13,501,Europe
+283,15,16,424,Europe
+284,22,7,1124,Europe
+285,18,25,3291,Middle East
+286,4,27,2494,Middle East
+287,22,3,523,Europe
+288,29,5,809,Europe
+289,10,30,2192,Middle East
+290,9,17,689,Europe
+291,5,1,1398,Europe
+292,4,10,1218,Europe
+293,12,24,587,Europe
+294,10,2,1164,Europe
+295,22,24,675,Europe
+296,30,18,870,Europe
+297,28,1,1247,Europe
+298,19,24,811,Europe
+299,13,15,454,Europe
+300,18,13,1207,Europe
